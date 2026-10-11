@@ -1,8 +1,22 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-10-10T16:04:42.537054+00:00",
-  "story_count": 78,
+  "last_updated": "2026-10-11T01:33:33.601307+00:00",
+  "story_count": 81,
   "stories": [
+    {
+      "title": "Rashid bin Humaid receives the Global Grands Award 2026",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%B1%D8%A7%D8%B4%D8%AF-%D8%A8%D9%86-%D8%AD%D9%85%D9%8A%D8%AF-%D9%8A%D8%AA%D8%B3%D9%84%D9%85-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%BA%D9%84%D9%88%D8%A8%D8%A7%D9%84-%D8%BA%D8%B1%D8%A7%D9%86%D8%AF%D8%B3-2026",
+      "published_date": "2026-10-10T20:29:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mohammed bin Rashid Space Center renews its partnership with the French Center for Lunar Exploration",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D9%85%D8%B1%D9%83%D8%B2-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B1%D8%A7%D8%B4%D8%AF-%D9%84%D9%84%D9%81%D8%B6%D8%A7%D8%A1-%D9%8A%D8%AC%D8%AF%D8%AF-%D8%B4%D8%B1%D8%A7%D9%83%D8%AA%D9%87-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%84%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81-%D8%A7%D9%84%D9%82%D9%85%D8%B1",
+      "published_date": "2026-10-10T20:09:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The UAE stresses the need to fully implement UN resolutions",
       "source": "Al Khaleej",
@@ -130,20 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saud bin Saqr discusses relations with Germany",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-08/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%B3%D8%B9%D9%88%D8%AF-%D8%A8%D9%86-%D8%B5%D9%82%D8%B1-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D8%B9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7",
-      "published_date": "2026-10-07T20:41:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Global leaders define the next wave of robotics technology",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-08/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D9%82%D8%A7%D8%AF%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D9%88%D9%86-%D9%8A%D8%AD%D8%AF%D8%AF%D9%88%D9%86-%D9%85%D9%84%D8%A7%D9%85%D8%AD-%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9-%D9%85%D9%86-%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA%D8%A7%D8%AA",
-      "published_date": "2026-10-07T20:37:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Hareb Al Shamsi: Awareness is the line of defense against cybercrimes",
       "source": "Al Khaleej",
       "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%AD%D8%A7%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D8%B3%D9%8A-%D8%A7%D9%84%D9%88%D8%B9%D9%8A-%D8%AE%D8%B7-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A%D8%A9",
@@ -184,6 +184,27 @@
       "url": "https://www.alkhaleej.ae/2026-10-07/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A8%D8%B4%D8%AF%D8%A9-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%AC%D9%85%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A-%D8%A7%D9%84%D8%A3%D8%B9%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
       "published_date": "2026-10-07T08:44:00+00:00",
       "category": "Military"
+    },
+    {
+      "title": "UAE National Guard rescues 22 people after oil tanker catches fire",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/10/uae-national-guard-rescues-22-people-after-oil-tanker-catches-fire/",
+      "published_date": "2026-10-10T17:56:25+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The UAE National Guard rescues 22 people from a burning tanker",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/middle-east/1897592-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D9%8A%D9%86%D9%82%D8%B0-22-%D8%B4%D8%AE%D8%B5%D8%A7-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%85%D8%B4%D8%AA%D8%B9%D9%84%D8%A9",
+      "published_date": "2026-10-10T16:57:02+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The UAE National Guard rescues 22 people following an oil tanker fire in the Arabian Gulf",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D9%8A%D9%86%D9%82%D8%B0-22-%D8%B4%D8%AE%D8%B5%D8%A7-%D8%A5%D8%AB%D8%B1-%D8%AD%D8%B1%D9%8A%D9%82-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A",
+      "published_date": "2026-10-10T16:08:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Delivering water service to 870 new customers in Sharjah",
@@ -270,6 +291,111 @@
       "category": "Energy"
     },
     {
+      "title": "700 global leaders at the annual meetings of future leaders in the UAE",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/700-%D9%82%D8%A7%D8%A6%D8%AF-%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A%D8%A9-%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA",
+      "published_date": "2026-10-10T21:20:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "“Al Ghadeer” and “Al Foah” support Emirati craftswomen in food production",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%BA%D8%AF%D9%8A%D8%B1-%D9%88%D8%A7%D9%84%D9%81%D9%88%D8%B9%D8%A9-%D8%AA%D8%AF%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D9%81%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%A3%D8%BA%D8%B0%D9%8A%D8%A9",
+      "published_date": "2026-10-10T20:28:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "“Al Dhaid Dates” highlights innovative solutions for the sustainability of agricultural production",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%B0%D9%8A%D8%AF-%D9%84%D9%84%D8%AA%D9%85%D9%88%D8%B1-%D9%8A%D8%B6%D9%8A%D8%A1-%D8%B9%D9%84%D9%89-%D8%AD%D9%84%D9%88%D9%84-%D9%85%D8%A8%D8%AA%D9%83%D8%B1%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A",
+      "published_date": "2026-10-10T20:27:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "A company was fined 150,000 dirhams for damaging a natural habitat",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%AA%D8%BA%D8%B1%D9%8A%D9%85-%D8%B4%D8%B1%D9%83%D8%A9-150-%D8%A3%D9%84%D9%81-%D8%AF%D8%B1%D9%87%D9%85-%D9%84%D9%84%D8%A5%D8%B6%D8%B1%D8%A7%D8%B1-%D8%A8%D9%85%D9%88%D8%A6%D9%84-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A",
+      "published_date": "2026-10-10T20:25:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Obligating a company to pay $270,000 worth of equipment",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-%D9%88%D9%82%D8%B6%D8%A7%D9%8A%D8%A7/%D8%A5%D9%84%D8%B2%D8%A7%D9%85-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B3%D8%AF%D8%A7%D8%AF-270-%D8%A3%D9%84%D9%81-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%82%D9%8A%D9%85%D8%A9-%D9%85%D8%B9%D8%AF%D8%A7%D8%AA",
+      "published_date": "2026-10-10T20:22:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The UAE enhances Gulf cooperation to develop labor markets",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84",
+      "published_date": "2026-10-10T20:08:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Housing, curricula and nationalization are on the table of National Bank discussions",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%87%D8%AC-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%B7%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A",
+      "published_date": "2026-10-10T20:02:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Prospects of quantum technology... Why can't global trade and technology afford to wait?",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A2%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D9%85%D9%8A%D8%A9-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%84%D8%A7-%D8%AA%D8%AD%D8%AA%D9%85%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%AA%D8%B1%D9%81-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1",
+      "published_date": "2026-10-10T18:27:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "From computing to data centers...a furious race for Nvidia chips",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%B3%D8%A8%D8%A9-%D8%A5%D9%84%D9%89-%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%B3%D8%A8%D8%A7%D9%82-%D9%85%D8%AD%D9%85%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%B1%D9%82%D8%A7%D8%A6%D9%82-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7",
+      "published_date": "2026-10-10T18:22:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Global markets: a week of cautious gains",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D8%AD%D8%B0%D8%B1%D8%A9-3189187",
+      "published_date": "2026-10-10T18:20:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Banking applications are gradually pulling the rug out of the branches",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AD%D8%A8-%D8%A7%D9%84%D8%A8%D8%B3%D8%A7%D8%B7-%D8%AA%D8%AF%D8%B1%D9%8A%D8%AC%D9%8A%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%B9",
+      "published_date": "2026-10-10T18:13:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "0.41% increase in inflation in the UAE in June",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/041-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%85-%D8%A8%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D9%8A%D9%88%D9%86%D9%8A%D9%88",
+      "published_date": "2026-10-10T18:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Banks warn of the “trap of attractive offers” and data theft",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D9%81%D8%AE-%D8%A7%D9%84%D8%B9%D8%B1%D9%88%D8%B6-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D9%8A%D8%A9-%D9%88%D8%B3%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA",
+      "published_date": "2026-10-10T17:58:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The UAE expands advanced fifth generation networks",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%88%D8%B3%D8%B9-%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85",
+      "published_date": "2026-10-10T17:49:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "A successful leader...talent alone is not enough",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%88%D8%A3%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D9%86%D8%A7%D8%AC%D8%AD-%D8%A7%D9%84%D9%85%D9%88%D9%87%D8%A8%D8%A9-%D9%88%D8%AD%D8%AF%D9%87%D8%A7-%D9%84%D8%A7-%D8%AA%D9%83%D9%81%D9%8A",
+      "published_date": "2026-10-10T17:47:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Bitcoin above $82,000 amid market pressure",
       "source": "Al Khaleej",
       "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%A8%D9%8A%D8%AA%D9%83%D9%88%D9%8A%D9%86-%D9%81%D9%88%D9%82-82-%D8%A3%D9%84%D9%81-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%88%D8%B3%D8%B7-%D8%B6%D8%BA%D9%88%D8%B7-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82",
@@ -305,109 +431,109 @@
       "category": "Economy"
     },
     {
-      "title": "The UAE and Japan are discussing cooperation in industry and technology",
+      "title": "Dubai Police develops skills for dealing with victims of human trafficking",
       "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7",
-      "published_date": "2026-10-10T10:51:00+00:00",
-      "category": "Economy"
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%B7%D9%88%D8%B1-%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D8%A8%D8%B4%D8%B1",
+      "published_date": "2026-10-10T21:18:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Global markets: a week of cautious gains",
+      "title": "Abu Dhabi Police enhances school students’ awareness of the dangers of drugs",
       "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D8%AD%D8%B0%D8%B1%D8%A9",
-      "published_date": "2026-10-10T10:36:00+00:00",
-      "category": "Economy"
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%AA%D8%B9%D8%B2%D8%B2-%D9%88%D8%B9%D9%8A-%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%A8%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA",
+      "published_date": "2026-10-10T21:16:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fitch: The UAE economy is resilient and is steadily overcoming challenges",
+      "title": "Burjeel Abu Dhabi diagnoses and treats a rare case of pancreatitis",
       "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D9%81%D9%8A%D8%AA%D8%B4-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%B1%D9%86-%D9%88%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A8%D8%AB%D8%A8%D8%A7%D8%AA",
-      "published_date": "2026-10-10T10:08:00+00:00",
-      "category": "Economy"
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A8%D8%B1%D8%AC%D9%8A%D9%84-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D9%8A%D8%B4%D8%AE%D8%B5-%D8%AD%D8%A7%D9%84%D8%A9-%D9%86%D8%A7%D8%AF%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D9%86%D9%83%D8%B1%D9%8A%D8%A7%D8%B3-%D9%88%D9%8A%D8%B9%D8%A7%D9%84%D8%AC%D9%87%D8%A7",
+      "published_date": "2026-10-10T21:14:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The UAE is strengthening its partnerships to build an integrated space economy",
+      "title": "Al-Gergawi and Dhahi Khalfan attend weddings between Al-Janahi and Al-Bastaki",
       "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%B4%D8%B1%D8%A7%D9%83%D8%A7%D8%AA%D9%87%D8%A7-%D9%84%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%81%D8%B6%D8%A7%D8%A6%D9%8A-%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84",
-      "published_date": "2026-10-09T21:05:00+00:00",
-      "category": "Economy"
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D9%82%D8%B1%D9%82%D8%A7%D9%88%D9%8A-%D9%88%D8%B6%D8%A7%D8%AD%D9%8A-%D8%AE%D9%84%D9%81%D8%A7%D9%86-%D9%8A%D8%AD%D8%B6%D8%B1%D8%A7%D9%86-%D8%A3%D9%81%D8%B1%D8%A7%D8%AD-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%AD%D9%8A-%D9%88%D8%A7%D9%84%D8%A8%D8%B3%D8%AA%D9%83%D9%8A",
+      "published_date": "2026-10-10T21:11:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Discussing the establishment of a cultural institute to teach the Chinese language in Sharjah",
+      "title": "Abu Dhabi hosts the “European-Arab Medical Congress” on December 11",
       "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A8%D8%AD%D8%AB-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D8%B9%D9%87%D8%AF-%D8%AB%D9%82%D8%A7%D9%81%D9%8A-%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9",
-      "published_date": "2026-10-09T21:03:00+00:00",
-      "category": "Economy"
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D8%B1%D8%B3-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A-11-%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1",
+      "published_date": "2026-10-10T21:10:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "“Du” celebrates the graduation of 100 Emirati talents",
+      "title": "The National Rehabilitation Center launches a campaign to promote mental health and prevent addiction",
       "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%AF%D9%88-%D8%AA%D8%AD%D8%AA%D9%81%D9%8A-%D8%A8%D8%AA%D8%AE%D8%B1%D9%8A%D8%AC-100-%D9%85%D9%88%D9%87%D8%A8%D8%A9-%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9",
-      "published_date": "2026-10-09T20:03:00+00:00",
-      "category": "Economy"
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D9%8A%D8%B7%D9%84%D9%82-%D8%AD%D9%85%D9%84%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%88%D9%82%D8%A7%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D8%AF%D9%85%D8%A7%D9%86",
+      "published_date": "2026-10-10T21:08:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The UAE reviews the achievements of the labor market in Tanzania",
+      "title": "95% of young people consider mental health a shared responsibility",
       "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-09/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A5%D9%86%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%81%D9%8A-%D8%AA%D9%86%D8%B2%D8%A7%D9%86%D9%8A%D8%A7",
-      "published_date": "2026-10-09T19:58:00+00:00",
-      "category": "Economy"
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/95-%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%8A%D8%B9%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9",
+      "published_date": "2026-10-10T21:06:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Stocks decline for the second week, awaiting catalysts",
+      "title": "Dubai Police anticipates the dangers of deep fakes and digital trust",
       "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-09/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A7%D9%84%D8%A3%D8%B3%D9%87%D9%85-%D8%AA%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%84%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A8%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D9%85%D8%AD%D9%81%D8%B2%D8%A7%D8%AA",
-      "published_date": "2026-10-09T18:59:00+00:00",
-      "category": "Economy"
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%B3%D8%AA%D8%B4%D8%B1%D9%81-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%AA%D8%B2%D9%8A%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%82-%D9%88%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9",
+      "published_date": "2026-10-10T20:27:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Dubai Cashless Strategy contributes Dh8bn to economy as it exceeds goals ahead of schedule",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/business/money/2026/10/09/dubai-cashless-strategy-contributes-dh8bn-to-economy-as-it-exceeds-goals-ahead-of-schedule/",
-      "published_date": "2026-10-09T15:12:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "President Sheikh Mohamed and Canadian PM Mark Carney discuss UAE-Canada economic ties",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/09/president-sheikh-mohamed-and-canadian-pm-mark-carney-discuss-uae-canada-economic-ties/",
-      "published_date": "2026-10-09T14:39:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UAE: Committed to combating racism and hatred",
+      "title": "“Suburban Affairs” discusses enhancing community integration with council heads",
       "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-09/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D9%84%D8%AA%D8%B2%D9%85%D9%88%D9%86-%D8%A8%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D9%86%D8%B5%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%85%D9%8A%D9%8A%D8%B2-%D8%A7%D9%84%D8%B9%D9%86%D8%B5%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D9%87%D9%8A%D8%A9",
-      "published_date": "2026-10-09T14:37:00+00:00",
-      "category": "Economy"
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%B6%D9%88%D8%A7%D8%AD%D9%8A-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9%D9%8A-%D9%85%D8%B9-%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84%D8%B3",
+      "published_date": "2026-10-10T20:26:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "48% stock rebound in 3 months... SpaceX recovers $750 billion",
+      "title": "Global recognition of Dubai Police’s leadership in managing initiatives and projects",
       "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-09/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/48-%D8%A7%D9%86%D8%AA%D8%B9%D8%A7%D8%B4%D8%A9-%D8%A3%D8%B3%D9%87%D9%85-%D9%81%D9%8A-3-%D8%A3%D8%B4%D9%87%D8%B1-%D8%B3%D8%A8%D9%8A%D8%B3-%D8%A5%D9%83%D8%B3-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-750-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
-      "published_date": "2026-10-09T14:31:00+00:00",
-      "category": "Economy"
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81-%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D8%A8%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AF%D8%A8%D9%8A-%D9%81%D9%8A-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9",
+      "published_date": "2026-10-10T20:25:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The UAE supports Gulf industrial integration to build flexible supply chains",
+      "title": "Sharjah Works consolidates institutional values in the work environment",
       "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-09/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D8%A1-%D8%B3%D9%84%D8%A7%D8%B3%D9%84-%D8%A5%D9%85%D8%AF%D8%A7%D8%AF-%D9%85%D8%B1%D9%86%D8%A9",
-      "published_date": "2026-10-09T14:27:00+00:00",
-      "category": "Economy"
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A3%D8%B4%D8%BA%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%AA%D8%B1%D8%B3%D8%AE-%D8%A7%D9%84%D9%82%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84",
+      "published_date": "2026-10-10T20:25:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "She crowned him the second richest person in the world.. Bezos’ wealth is $368.5 billion",
+      "title": "Vile expressions fine a woman 10,000 dirhams",
       "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-09/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%AA%D9%88%D8%AC%D8%AA%D9%87-%D8%AB%D8%A7%D9%86%D9%8A-%D8%A3%D8%AB%D8%B1%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-3685-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%AB%D8%B1%D9%88%D8%A9-%D8%A8%D9%8A%D8%B2%D9%88%D8%B3",
-      "published_date": "2026-10-09T14:11:00+00:00",
-      "category": "Economy"
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-%D9%88%D9%82%D8%B6%D8%A7%D9%8A%D8%A7/%D8%B9%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AE%D8%A7%D8%AF%D8%B4%D8%A9-%D8%AA%D8%BA%D8%B1%D9%85-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-10-%D8%A2%D9%84%D8%A7%D9%81-%D8%AF%D8%B1%D9%87%D9%85",
+      "published_date": "2026-10-10T20:23:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "“Technology” rescues “Wall Street” from the wave of decline",
+      "title": "The launch of the 22nd session of the Education Exhibition at “Expo Sharjah”",
       "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-09/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%AA%D9%86%D8%AA%D8%B4%D9%84-%D9%88%D9%88%D9%84-%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA-%D9%85%D9%86-%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9",
-      "published_date": "2026-10-09T13:43:00+00:00",
-      "category": "Economy"
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84-22-%D9%85%D9%86-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9",
+      "published_date": "2026-10-10T20:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The “Arabic Language Center” discusses Gulf education initiatives 2026-2030",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-11/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9-2026-2030",
+      "published_date": "2026-10-10T20:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FedEx President: The UAE is a logistical hub linking 3 continents",
+      "source": "Al Khaleej",
+      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%83%D8%B3-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%AD%D9%88%D8%B1-%D9%84%D9%88%D8%AC%D8%B3%D8%AA%D9%8A-%D9%8A%D8%B1%D8%A8%D8%B7-3-%D9%82%D8%A7%D8%B1%D8%A7%D8%AA",
+      "published_date": "2026-10-10T18:35:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The UAE calls on its citizens in Panama to be careful due to the earthquake",
@@ -442,111 +568,6 @@
       "source": "Al Khaleej",
       "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%88%D9%86%D8%A7%D8%A6%D8%A8%D8%A7%D9%87-%D9%8A%D9%87%D9%86%D8%A6%D9%88%D9%86-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%81%D9%8A%D8%AC%D9%8A-%D8%A8%D8%B0%D9%83%D8%B1%D9%89-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A8%D9%84%D8%A7%D8%AF%D9%87",
       "published_date": "2026-10-10T10:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Claude” is a failed secret informant... a fake murder report",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D9%83%D9%84%D9%88%D8%AF-%D9%85%D8%AE%D8%A8%D8%B1-%D8%B3%D8%B1%D9%8A-%D9%81%D8%A7%D8%B4%D9%84-%D8%A8%D9%84%D8%A7%D8%BA-%D8%B9%D9%86-%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D9%82%D8%AA%D9%84-%D9%88%D9%87%D9%85%D9%8A%D8%A9",
-      "published_date": "2026-10-10T10:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dubai introduces digital Nol QR tickets for metro, buses and trams",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/10/dubai-digital-nol-qr-tickets-metro-bus-tram/",
-      "published_date": "2026-10-10T08:27:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maktoum bin Mohammed: Consolidating Dubai’s position among the four most important global financial centers",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D9%85%D9%83%D8%AA%D9%88%D9%85-%D8%A8%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D8%A4%D9%89-%D8%B7%D9%85%D9%88%D8%AD%D8%A9-%D8%B1%D8%B3%D8%AE%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AF%D8%A8%D9%8A",
-      "published_date": "2026-10-10T08:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The UAE stands in solidarity with Panama over the earthquake",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D9%85%D8%B9-%D8%A8%D9%86%D9%85%D8%A7-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B2%D9%84%D8%B2%D8%A7%D9%84",
-      "published_date": "2026-10-10T07:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The UAE is establishing a proactive system to protect digital transformation and enhance national capabilities",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B1%D8%B3%D8%AE-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D8%B3%D8%AA%D8%A8%D8%A7%D9%82%D9%8A%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9",
-      "published_date": "2026-10-10T04:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UAE school pupils turn feathers into fertiliser as plans to combat waste take flight",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/10/uae-school-pupils-turn-feathers-into-fertiliser-as-plans-to-combat-waste-take-flight/",
-      "published_date": "2026-10-10T02:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "6.9 billion dirhams, the value of World Food Week deals",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/69-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D8%B1%D9%87%D9%85-%D9%82%D9%8A%D9%85%D8%A9-%D8%B5%D9%81%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D9%84%D8%BA%D8%B0%D8%A7%D8%A1",
-      "published_date": "2026-10-09T21:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, family and society are the axes of development in Ajman",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D9%85%D8%AD%D8%A7%D9%88%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D8%AC%D9%85%D8%A7%D9%86",
-      "published_date": "2026-10-09T21:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Qatari delegation reviews the experience of entry permits in “Dubai Residency”",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D9%88%D9%81%D8%AF-%D9%82%D8%B7%D8%B1%D9%8A-%D9%8A%D8%B7%D9%84%D8%B9-%D8%B9%D9%84%D9%89-%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D8%A3%D8%B0%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D9%81%D9%8A-%D8%A5%D9%82%D8%A7%D9%85%D8%A9-%D8%AF%D8%A8%D9%8A",
-      "published_date": "2026-10-09T21:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rashid bin Humaid: The power of the media lies in accuracy and public trust",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%B1%D8%A7%D8%B4%D8%AF-%D8%A8%D9%86-%D8%AD%D9%85%D9%8A%D8%AF-%D9%82%D9%88%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%82%D8%A9-%D9%88%D8%AB%D9%82%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1",
-      "published_date": "2026-10-09T21:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Artists: “Dubai Orchestra” carries the voice of the Emirates to the world",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D9%81%D9%86%D8%A7%D9%86%D9%88%D9%86-%D8%AF%D8%A8%D9%8A-%D9%84%D9%84%D8%A3%D9%88%D8%B1%D9%83%D8%B3%D8%AA%D8%B1%D8%A7-%D8%AA%D8%AD%D9%85%D9%84-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
-      "published_date": "2026-10-09T21:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al-Jarwan: The birth of the astronomical new moon at 7:50 pm today",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%AC%D8%B1%D9%88%D8%A7%D9%86-%D9%88%D9%84%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%82%D9%85%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%84%D9%83%D9%8A%D8%A7-750-%D9%85%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
-      "published_date": "2026-10-09T21:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Anti-Narcotics” and the UAE University strengthen the partnership",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B9%D8%B2%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9",
-      "published_date": "2026-10-09T20:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abdullah bin Salem and the sheikhs attend the weddings of Al-Rumi and Al-Himyari",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D8%B3%D8%A7%D9%84%D9%85-%D9%88%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D9%8A%D8%AD%D8%B6%D8%B1%D9%88%D9%86-%D8%A3%D9%81%D8%B1%D8%A7%D8%AD-%D8%A7%D9%84%D8%B1%D9%88%D9%85%D9%8A-%D9%88%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%B1%D9%8A",
-      "published_date": "2026-10-09T20:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Smart police stations in residential complexes in Dubai",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-10/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D8%B4%D8%B1%D8%B7%D8%A9-%D8%B0%D9%83%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%83%D9%86%D9%8A%D8%A9-%D8%A8%D8%AF%D8%A8%D9%8A",
-      "published_date": "2026-10-09T20:57:00+00:00",
       "category": "Local Events"
     }
   ]
