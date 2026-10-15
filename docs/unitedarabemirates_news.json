@@ -1,7 +1,7 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-10-15T01:17:20.698690+00:00",
-  "story_count": 84,
+  "last_updated": "2026-10-15T15:30:25.165930+00:00",
+  "story_count": 85,
   "stories": [
     {
       "title": "Abdullah bin Zayed: The UAE is in full solidarity with Saudi Arabia... and we condemn the Houthi terrorist attacks",
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "UAE 'better prepared' for war than when US conflict with Iran began, says official",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/15/uae-better-prepared-for-war-than-when-us-conflict-with-iran-began-says-official/",
+      "published_date": "2026-10-15T14:08:45+00:00",
+      "category": "Military"
+    },
+    {
       "title": "“The Iron Sheikh”... How did Mohammed bin Rashid lead the construction and development of the UAE Armed Forces?",
       "source": "Al Khaleej",
       "url": "https://www.alkhaleej.ae/2026-10-13/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D9%8A-%D9%83%D9%8A%D9%81-%D9%82%D8%A7%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B1%D8%A7%D8%B4%D8%AF-%D8%A8%D9%86%D8%A7%D8%A1-%D9%88%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9",
@@ -205,6 +212,13 @@
       "url": "https://www.thenationalnews.com/business/economy/2026/10/09/uae-economy-grew-in-first-half-of-2026-despite-impact-of-iran-war/",
       "published_date": "2026-10-09T10:39:13+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Adnoc says decade-old contingency plan kept oil flowing throughout Iran war",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/10/15/adnoc-says-decade-old-contingency-plan-kept-oil-flowing-throughout-iran-war/",
+      "published_date": "2026-10-15T11:17:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "Dubai inflation eases even as fuel costs rise",
@@ -305,11 +319,25 @@
       "category": "Energy"
     },
     {
-      "title": "The UAE and Saudi Arabia strengthen Asia's grip on oil supplies",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-08/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D8%B2%D8%B2%D8%A7%D9%86-%D9%82%D8%A8%D8%B6%D8%A9-%D8%A2%D8%B3%D9%8A%D8%A7-%D8%B9%D9%84%D9%89-%D8%A5%D9%85%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7",
-      "published_date": "2026-10-08T13:19:00+00:00",
-      "category": "Energy"
+      "title": "Pierre Fabre Laboratories’ new Dubai hub highlights bold plans for regional growth",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/in-focus/2026/10/15/pierre-fabre-laboratories-new-dubai-hub-highlights-bold-plans-for-regional-growth/",
+      "published_date": "2026-10-15T11:27:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hormuz matters but UAE has more than one gateway, economy minister says",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/economy/2026/10/15/hormuz-really-matters-but-the-uae-has-more-than-one-gateway-economy-minister-says/",
+      "published_date": "2026-10-15T10:04:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Aldar enters Sharjah with Dh1.1bn residential acquisition",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/property/2026/10/15/aldar-enters-sharjah-with-dh11bn-residential-acquisition/",
+      "published_date": "2026-10-15T08:31:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sheikh Hamdan meets World Economic Forum president to strengthen UAE partnership",
@@ -431,25 +459,11 @@
       "category": "Economy"
     },
     {
-      "title": "Inception 42 launches “Alpha” to support smart investment decision-making",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-13/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A5%D9%86%D8%B3%D8%A8%D8%B4%D9%86-42-%D8%AA%D8%B7%D9%84%D9%82-%D8%A3%D9%84%D9%81%D8%A7-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D8%AA%D8%AE%D8%A7%D8%B0-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9",
-      "published_date": "2026-10-13T09:22:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Department of Economy and Tourism in Dubai and DHL enhance the readiness of manufacturers for export",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-13/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D8%A8%D8%AF%D8%A8%D9%8A-%D9%88%D8%AF%D9%8A-%D8%A5%D8%AA%D8%B4-%D8%A5%D9%84-%D8%AA%D8%B9%D8%B2%D8%B2%D8%A7%D9%86-%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D9%86%D8%B9%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1",
-      "published_date": "2026-10-13T09:08:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "“First Abu Dhabi Bank” launches the API developers portal",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-13/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A8%D9%86%D9%83-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%8A%D8%B7%D9%84%D9%82-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D9%85%D8%B7%D9%88%D8%B1%D9%8A-%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA",
-      "published_date": "2026-10-13T09:02:00+00:00",
-      "category": "Economy"
+      "title": "Sharjah Police arrest 33 in crackdown on $2.4bn global money-laundering scheme",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/15/33-arrests-in-international-operation-into-organised-crime-led-by-sharjah-police/",
+      "published_date": "2026-10-15T09:49:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'Minimise catastrophes': UAE's AI minister highlights dangers of autonomous arms",
@@ -582,13 +596,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/10/13/abu-dhabi-criminal-court-sentences-teacher-to-two-years-in-prison-over-assault-on-four-students/",
       "published_date": "2026-10-13T07:06:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abu Dhabi: A teacher was imprisoned for two years and deported from the country for assaulting four students",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-13/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%AD%D8%A8%D8%B3-%D9%85%D8%B9%D9%84%D9%85-%D8%B3%D9%86%D8%AA%D9%8A%D9%86-%D9%88%D8%A5%D8%A8%D8%B9%D8%A7%D8%AF%D9%87-%D8%B9%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A6%D9%87-%D8%B9%D9%84%D9%89-%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9-%D8%B7%D9%84%D8%A7%D8%A8",
-      "published_date": "2026-10-13T06:00:00+00:00",
       "category": "Local Events"
     }
   ]
