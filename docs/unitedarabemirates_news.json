@@ -1,7 +1,7 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-10-20T01:35:28.437794+00:00",
-  "story_count": 87,
+  "last_updated": "2026-10-20T15:35:35.956085+00:00",
+  "story_count": 88,
   "stories": [
     {
       "title": "Sheikh Abdullah bin Zayed meets with the Foreign Minister of India",
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "UAE and France deepen defence ties with Rafale F5 fighter-jet deal",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/economy/2026/10/20/uae-and-france-deepen-defence-ties-with-rafale-f5-fighter-jet-deal/",
+      "published_date": "2026-10-20T13:26:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "No cancellation of planned FDI in UAE this year despite Iran war, Ministry of Investment says",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/economy/2026/10/20/no-cancellation-of-planned-fdi-in-uae-this-year-despite-iran-war-ministry-of-investment-says/",
+      "published_date": "2026-10-20T13:14:31+00:00",
+      "category": "Military"
+    },
+    {
       "title": "President Sheikh Mohamed meets Saudi Arabia's Minister of Defence in Abu Dhabi",
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/10/18/sheikh-mansour-bin-zayed-meets-saudi-arabias-minister-of-defence/",
@@ -186,11 +200,18 @@
       "category": "Military"
     },
     {
-      "title": "“The Iron Sheikh”... How did Mohammed bin Rashid lead the construction and development of the UAE Armed Forces?",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-13/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D9%8A-%D9%83%D9%8A%D9%81-%D9%82%D8%A7%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B1%D8%A7%D8%B4%D8%AF-%D8%A8%D9%86%D8%A7%D8%A1-%D9%88%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9",
-      "published_date": "2026-10-13T11:45:00+00:00",
-      "category": "Military"
+      "title": "Nuclear watchdog praises UAE response to drone strike on Barakah plant",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/20/nuclear-watchdog-praises-uae-response-to-drone-strike-on-barakah-plant/",
+      "published_date": "2026-10-20T14:43:24+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Police chief says nothing to worry about after reports of strong fuel smell across Sharjah and Dubai",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/20/police-chief-says-nothing-to-worry-about-over-reports-of-strong-fuel-smell-across-sharjah-and-dubai/",
+      "published_date": "2026-10-20T12:25:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil is falling from the highest level in 5 months",
@@ -316,20 +337,6 @@
       "source": "Al Khaleej",
       "url": "https://www.alkhaleej.ae/2026-10-16/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A2%D9%8A%D8%B1%D9%8A%D9%86%D8%A7-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%AE%D8%B7%D8%A9-%D8%B9%D9%85%D9%84%D9%87%D8%A7-%D9%88%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%AA%D9%87%D8%A7-%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D8%A9-%D8%A7%D9%84%D8%A3%D8%AC%D9%84",
       "published_date": "2026-10-15T21:41:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Adnoc says decade-old contingency plan kept oil flowing throughout Iran war",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/business/energy/2026/10/15/adnoc-says-decade-old-contingency-plan-kept-oil-flowing-throughout-iran-war/",
-      "published_date": "2026-10-15T11:17:14+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Dubai inflation eases even as fuel costs rise",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/business/economy/2026/10/13/dubai-inflation-eases-even-as-fuel-costs-rise/",
-      "published_date": "2026-10-13T08:58:36+00:00",
       "category": "Energy"
     },
     {
