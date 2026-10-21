@@ -1,8 +1,15 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-10-20T15:35:35.956085+00:00",
+  "last_updated": "2026-10-21T01:21:23.372687+00:00",
   "story_count": 88,
   "stories": [
+    {
+      "title": "President Sheikh Mohamed meets global health leaders at Abu Dhabi Future Health Summit",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/20/president-sheikh-mohamed-meets-global-health-leaders-at-abu-dhabi-future-health-summit/",
+      "published_date": "2026-10-20T18:05:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sheikh Abdullah bin Zayed meets with the Foreign Minister of India",
       "source": "Sky News Arabia",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Noura Al Kaabi: Continuous communication is the cornerstone of facing challenges",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-18/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D9%86%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%83%D8%B9%D8%A8%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1-%D8%B1%D9%83%D9%8A%D8%B2%D8%A9-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA",
-      "published_date": "2026-10-17T20:10:00+00:00",
-      "category": "Diplomacy"
+      "title": "President Sheikh Mohamed and France's Macron tour Abu Dhabi defence companies",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/20/president-sheikh-mohamed-and-frances-macron-tour-abu-dhabi-defence-companies/",
+      "published_date": "2026-10-20T18:10:47+00:00",
+      "category": "Military"
     },
     {
       "title": "UAE and France deepen defence ties with Rafale F5 fighter-jet deal",
@@ -190,13 +197,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/mena/2026/10/15/uae-better-prepared-for-war-than-when-us-conflict-with-iran-began-says-official/",
       "published_date": "2026-10-15T14:08:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Specific strikes targeting the “war nerve” of the Houthis",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-14/%D8%B9%D8%B1%D8%A8-%D9%88%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D9%86%D9%88%D8%B9%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D8%B9%D8%B5%D8%A8-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A-%D9%84%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86",
-      "published_date": "2026-10-13T21:35:00+00:00",
       "category": "Military"
     },
     {
