@@ -1,7 +1,7 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-10-28T02:04:37.146479+00:00",
-  "story_count": 64,
+  "last_updated": "2026-10-28T16:56:35.595750+00:00",
+  "story_count": 43,
   "stories": [
     {
       "title": "Abdullah bin Zayed and the Egyptian Foreign Minister discuss regional developments",
@@ -32,34 +32,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "“Ras Al Khaimah Transport” signs a memorandum of understanding with the Chinese “SUTPC”.",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%B1%D8%A3%D8%B3-%D8%A7%D9%84%D8%AE%D9%8A%D9%85%D8%A9-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%82%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%85%D8%B9-%D8%A5%D8%B3-%D9%8A%D9%88-%D8%AA%D9%8A-%D8%A8%D9%8A-%D8%B3%D9%8A-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A%D8%A9",
-      "published_date": "2026-10-21T15:01:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The UAE and Singapore discuss bilateral partnership and ways to develop it",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/business/1899693-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%B3%D9%86%D8%BA%D8%A7%D9%81%D9%88%D8%B1%D8%A9-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%B3%D8%A8%D9%84-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1%D9%87%D8%A7",
-      "published_date": "2026-10-21T11:34:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Sheikh Mohamed holds talks with Prime Minister of Singapore in Abu Dhabi as key deals agreed",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/21/president-sheikh-mohamed-hosts-reception-in-abu-dhabi-for-prime-minister-of-singapore/",
-      "published_date": "2026-10-21T10:52:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mohammed bin Zayed receives the Prime Minister of Singapore",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%B3%D9%86%D8%BA%D8%A7%D9%81%D9%88%D8%B1%D8%A9",
-      "published_date": "2026-10-21T07:42:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Sheikh Khaled meets Emirati military students on official visit to Greece",
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/10/24/sheikh-khaled-meets-emirati-military-students-on-official-visit-to-greece/",
@@ -74,18 +46,11 @@
       "category": "Military"
     },
     {
-      "title": "Dubai records strong sales for homes valued at over $10m as it attracts wealthy despite Iran war",
+      "title": "UAE oil spill: Sharjah closes all beaches as clean-up effort continues",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/business/property/2026/10/21/dubai-records-86-deals-for-10m-homes-in-q3-as-wealthy-flock-despite-iran-war/",
-      "published_date": "2026-10-21T10:10:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The UAE National Guard is a full member of the international FIAP organization",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D8%B9%D8%B6%D9%88%D8%A7-%D9%83%D8%A7%D9%85%D9%84%D8%A7-%D9%81%D9%8A-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D9%81%D9%8A%D8%A7%D8%A8-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
-      "published_date": "2026-10-21T06:16:00+00:00",
-      "category": "Military"
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/28/sharjah-shuts-beaches-oil-spill-umm-al-quwain-coast/",
+      "published_date": "2026-10-28T12:09:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "SNOC completes the first phase of the Hadiba gas field development project",
@@ -144,32 +109,18 @@
       "category": "Energy"
     },
     {
-      "title": "WETEX 2026: Powering the UAE's energy future from day one",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/in-focus/2026/10/21/wetex-2026-powering-the-uaes-energy-future-from-day-one/",
-      "published_date": "2026-10-21T12:47:16+00:00",
-      "category": "Energy"
+      "title": "The UAE and Canada sign the Comprehensive Economic Partnership Agreement",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/business/1901164-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D9%83%D9%86%D8%AF%D8%A7-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D9%86-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9",
+      "published_date": "2026-10-28T13:41:24+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Gargash: The UAE's peaceful nuclear energy is a model for enhancing the security of the region",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D9%82%D8%B1%D9%82%D8%A7%D8%B4-%D9%83%D9%81%D8%A7%D8%A1%D8%A9-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D8%A6-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D8%B1%D8%A7%D9%83%D8%A9-%D8%AA%D8%AD%D8%B8%D9%89-%D8%A8%D8%A5%D8%B4%D8%A7%D8%AF%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
-      "published_date": "2026-10-21T11:12:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Suhail Al Mazrouei: Renewable energy production in the UAE has increased 63-fold in 10 years",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%B3%D9%87%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D9%8A-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B1%D8%AA%D9%81%D8%B9-63-%D8%B6%D8%B9%D9%81%D8%A7-%D9%81%D9%8A-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA",
-      "published_date": "2026-10-21T09:01:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Supply concerns put pressure on oil... Brent exceeds $110",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D8%A5%D9%85%D8%AF%D8%A7%D8%AF-%D8%AA%D8%B6%D8%BA%D8%B7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A8%D8%B1%D9%86%D8%AA-%D9%8A%D8%AA%D8%AE%D8%B7%D9%89-110-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7%D8%AA",
-      "published_date": "2026-10-21T06:03:00+00:00",
-      "category": "Energy"
+      "title": "$15.7 billion in Etisalat revenues in 9 months, with a growth of 10%",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/business/1901159-15-7-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-9-%D8%A3%D8%B4%D9%87%D8%B1-%D8%A8%D9%86%D9%85%D9%88-10",
+      "published_date": "2026-10-28T13:22:56+00:00",
+      "category": "Economy"
     },
     {
       "title": "Dubai's new urban development policy seeks to increase property value by Dh20bn",
@@ -270,48 +221,6 @@
       "category": "Economy"
     },
     {
-      "title": "UAE's new AI platform to slash VAT refund time for tourists to one day",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/21/uaes-new-ai-platform-to-slash-vat-refund-time-for-tourists-to-one-day/",
-      "published_date": "2026-10-21T16:17:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "“National Real Estate” completes the “399 Hills Park” project for one billion dirhams",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D8%AC%D8%B2-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-399-%D9%87%D9%8A%D9%84%D8%B2-%D8%A8%D8%A7%D8%B1%D9%83-%D8%A8%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D8%B1%D9%87%D9%85",
-      "published_date": "2026-10-21T15:04:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "“Sharjah Chamber” expands the horizons of investment partnerships in “SIAL Paris”",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%BA%D8%B1%D9%81%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%AA%D9%88%D8%B3%D8%B9-%D8%A2%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%8A%D8%A7%D9%84-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3",
-      "published_date": "2026-10-21T14:59:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The “Jio” IPO raised $3.2 billion in two hours",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%A7%D9%83%D8%AA%D8%AA%D8%A7%D8%A8-%D8%AC%D9%8A%D9%88-%D8%AC%D9%85%D8%B9-32-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D8%A7%D8%B9%D8%AA%D9%8A%D9%86",
-      "published_date": "2026-10-21T14:47:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Chairman of IHG: The UAE is a pivotal market for the global hospitality sector",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A2%D9%8A-%D8%A5%D8%AA%D8%B4-%D8%AC%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B3%D9%88%D9%82-%D9%85%D8%AD%D9%88%D8%B1%D9%8A-%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A",
-      "published_date": "2026-10-21T14:28:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "“JP Morgan”: 8.9 dirhams target price for “ADNOC Logistics” shares",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%AC%D9%8A%D9%87-%D8%A8%D9%8A-%D9%85%D9%88%D8%B1%D8%BA%D8%A7%D9%86-89-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%84%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%84%D8%B3%D9%87%D9%85-%D8%A3%D8%AF%D9%86%D9%88%D9%83-%D9%84%D9%84%D8%A5%D9%85%D8%AF%D8%A7%D8%AF",
-      "published_date": "2026-10-21T14:26:00+00:00",
-      "category": "Economy"
-    },
-    {
       "title": "Sharjah announces women-only clock tower in Kalba and care complex on Khor Fakkan Road",
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/10/27/sharjah-announces-women-only-clock-tower-in-kalba-and-care-complex-on-khorfakkan-road/",
@@ -393,62 +302,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/10/22/sheikh-mohammed-and-sheikh-hamdan-pay-tribute-after-death-of-dedicated-dubai-police-leader/",
       "published_date": "2026-10-22T11:07:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sharjah Airport Duty Free showcases opportunities in the food industries at SIAL Paris",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%AD%D8%B1%D8%A9-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D9%81%D8%B1%D8%B5-%D8%A8%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%8A%D8%A7%D9%84-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3",
-      "published_date": "2026-10-21T15:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dubai Police issue more than 7,730 traffic fines over noisy vehicles and illegal modifications",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/21/dubai-police-issue-more-than-7730-traffic-fines-over-noisy-vehicles-and-illegal-modifications/",
-      "published_date": "2026-10-21T14:34:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morocco.. Expected financial support for those about to get married",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/varieties/1899721-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%AF%D8%B9%D9%85-%D9%85%D8%A7%D9%84%D9%8A-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D9%84%D9%84%D9%85%D9%82%D8%A8%D9%84%D9%8A%D9%86-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC",
-      "published_date": "2026-10-21T14:23:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Philippine” returns to Dubai with four flights per week",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A7%D9%84%D9%81%D9%84%D8%A8%D9%8A%D9%86%D9%8A%D8%A9-%D8%AA%D8%B9%D9%88%D8%AF-%D8%A5%D9%84%D9%89-%D8%AF%D8%A8%D9%8A-%D8%A8%D8%A3%D8%B1%D8%A8%D8%B9-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D8%A7",
-      "published_date": "2026-10-21T13:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dubai.. updating the maximum speed limit on 5 main streets, starting from November 1",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%AF%D8%A8%D9%8A-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-%D8%AD%D8%AF-%D8%A7%D9%84%D8%B3%D8%B1%D8%B9%D8%A9-%D8%A7%D9%84%D9%82%D8%B5%D9%88%D9%89-%D8%B9%D9%84%D9%89-5-%D8%B4%D9%88%D8%A7%D8%B1%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9-%D8%A8%D8%AF%D8%A1%D8%A7-%D9%85%D9%86-1-%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1",
-      "published_date": "2026-10-21T12:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Russia to Ireland... Etihad Cargo saves two bears",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D9%85%D9%86-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A3%D9%8A%D8%B1%D9%84%D9%86%D8%AF%D8%A7-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D9%84%D9%84%D8%B4%D8%AD%D9%86-%D9%8A%D9%86%D9%82%D8%B0-%D8%AF%D8%A8%D9%8A%D9%86",
-      "published_date": "2026-10-21T12:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dubai Police has issued 7,735 violations and impounded 1,630 vehicles since the beginning of 2026",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%B4%D8%B1%D8%B7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%AA%D8%AD%D8%B1%D8%B1-7735-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A9-%D9%88%D8%AA%D8%AD%D8%AC%D8%B2-1630-%D9%85%D8%B1%D9%83%D8%A8%D8%A9-%D9%85%D9%86%D8%B0-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-2026",
-      "published_date": "2026-10-21T11:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Whoop sees Abu Dhabi as springboard for shift to predictive health, says chief executive",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/business/2026/10/21/whoop-abu-dhabi-will-ahmed-on-the-record/",
-      "published_date": "2026-10-21T11:23:21+00:00",
       "category": "Local Events"
     }
   ]
