@@ -1,7 +1,7 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-10-27T16:07:58.631285+00:00",
-  "story_count": 67,
+  "last_updated": "2026-10-28T02:04:37.146479+00:00",
+  "story_count": 64,
   "stories": [
     {
       "title": "Abdullah bin Zayed and the Egyptian Foreign Minister discuss regional developments",
@@ -60,20 +60,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UAE: “Cybersecurity” responds to 750,000 attack attempts targeting the country",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%AA%D8%B5%D8%AF%D9%89-%D9%84-750-%D8%A3%D9%84%D9%81-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
-      "published_date": "2026-10-20T20:38:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Sheikh Mohamed meets global health leaders at Abu Dhabi Future Health Summit",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/20/president-sheikh-mohamed-meets-global-health-leaders-at-abu-dhabi-future-health-summit/",
-      "published_date": "2026-10-20T18:05:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Sheikh Khaled meets Emirati military students on official visit to Greece",
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/10/24/sheikh-khaled-meets-emirati-military-students-on-official-visit-to-greece/",
@@ -99,13 +85,6 @@
       "source": "Al Khaleej",
       "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D8%B9%D8%B6%D9%88%D8%A7-%D9%83%D8%A7%D9%85%D9%84%D8%A7-%D9%81%D9%8A-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D9%81%D9%8A%D8%A7%D8%A8-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
       "published_date": "2026-10-21T06:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "President Sheikh Mohamed and France's Macron tour Abu Dhabi defence companies",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/20/president-sheikh-mohamed-and-frances-macron-tour-abu-dhabi-defence-companies/",
-      "published_date": "2026-10-20T18:10:47+00:00",
       "category": "Military"
     },
     {
@@ -191,6 +170,13 @@
       "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D8%A5%D9%85%D8%AF%D8%A7%D8%AF-%D8%AA%D8%B6%D8%BA%D8%B7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A8%D8%B1%D9%86%D8%AA-%D9%8A%D8%AA%D8%AE%D8%B7%D9%89-110-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7%D8%AA",
       "published_date": "2026-10-21T06:03:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Dubai's new urban development policy seeks to increase property value by Dh20bn",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/27/sheikh-hamdan-dubai-urban-plan-property-value-boost/",
+      "published_date": "2026-10-27T16:29:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sheikh Hamdan approves plan to boost property values of 48 Dubai areas by Dh20 billion",
@@ -326,11 +312,11 @@
       "category": "Economy"
     },
     {
-      "title": "Ali Al Marzouqi: Abu Dhabi is a global destination for family capital",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%B2%D9%88%D9%82%D9%8A-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D9%88%D8%AC%D9%87%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D9%84%D8%B1%D8%A4%D9%88%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D9%8A%D8%A9",
-      "published_date": "2026-10-21T14:00:00+00:00",
-      "category": "Economy"
+      "title": "Sharjah announces women-only clock tower in Kalba and care complex on Khor Fakkan Road",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/27/sharjah-announces-women-only-clock-tower-in-kalba-and-care-complex-on-khorfakkan-road/",
+      "published_date": "2026-10-27T18:28:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hail hits Northern Emirates as Abu Dhabi issues rain alert",
@@ -463,13 +449,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/business/2026/10/21/whoop-abu-dhabi-will-ahmed-on-the-record/",
       "published_date": "2026-10-21T11:23:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mohammed bin Zayed and the Prime Minister of Singapore discuss regional developments",
-      "source": "Al Khaleej",
-      "url": "https://www.alkhaleej.ae/2026-10-21/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%88%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%B3%D9%86%D8%BA%D8%A7%D9%81%D9%88%D8%B1%D8%A9-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9",
-      "published_date": "2026-10-21T10:53:00+00:00",
       "category": "Local Events"
     }
   ]
