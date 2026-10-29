@@ -1,8 +1,15 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-10-29T02:05:31.145926+00:00",
-  "story_count": 44,
+  "last_updated": "2026-10-29T17:17:07.149040+00:00",
+  "story_count": 48,
   "stories": [
+    {
+      "title": "The UAE-US partnership and the rise of ‘algo-diplomacy’",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/opinion/comment/2026/10/29/us-uae-ai-artificial-intelligence-silicon-valley-diplomacy/",
+      "published_date": "2026-10-29T14:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The UAE stresses the importance of reducing escalation and giving priority to diplomacy in the region",
       "source": "Sky News Arabia",
@@ -46,11 +53,25 @@
       "category": "Military"
     },
     {
-      "title": "Sharjah tests AI-powered fire-detection system using thermal cameras and drones",
+      "title": "Masdar starts construction on 200MW solar energy project in Malaysia",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/22/sharjah-tests-ai-powered-fire-detection-system-using-thermal-cameras-and-drones/",
-      "published_date": "2026-10-22T15:44:49+00:00",
-      "category": "Military"
+      "url": "https://www.thenationalnews.com/business/energy/2026/10/29/masdar-starts-construction-on-200mw-solar-energy-project-in-malaysia/",
+      "published_date": "2026-10-29T17:05:59+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Nearly 90% of energy leaders boosted AI spending last year, Adnoc-Microsoft study finds",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/10/29/nearly-90-of-energy-leaders-boosted-ai-spending-last-year-adnoc-microsoft-study-finds/",
+      "published_date": "2026-10-29T15:54:49+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "UAE oil spill: Everything we know as beaches close and clean-up drive continues",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/29/uae-oil-spill-everything-we-know-as-beaches-close-and-clean-up-drive-continues/",
+      "published_date": "2026-10-29T10:27:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "UAE oil spill: Sharjah closes all beaches as clean-up effort continues",
@@ -114,6 +135,13 @@
       "url": "https://www.thenationalnews.com/news/uae/2026/10/22/uae-strong-smell-tanker-oil-spill/",
       "published_date": "2026-10-22T23:34:31+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Abu Dhabi apartment prices rise 24 per cent in third quarter",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/property/2026/10/29/abu-dhabi-apartment-prices-rise-24-per-cent-in-third-quarter/",
+      "published_date": "2026-10-29T12:25:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "The UAE and Canada sign the Comprehensive Economic Partnership Agreement",
@@ -214,18 +242,25 @@
       "category": "Economy"
     },
     {
-      "title": "The UAE intends to invest an additional 15 billion euros in Greece",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/world/1900009-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-15-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D9%8A%D9%88%D8%B1%D9%88-%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%86",
-      "published_date": "2026-10-22T16:18:21+00:00",
-      "category": "Economy"
+      "title": "UAE weather: Rain and hail forecast in some areas until Monday",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/29/uae-weather-rain-and-hail-forecast-in-some-areas-until-monday/",
+      "published_date": "2026-10-29T16:54:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "WGES 2026: Dubai’s green economy summit puts waste, water and AI on the agenda",
+      "title": "Abu Dhabi court sentences eight men to life in jail over Sudanese arms trafficking case",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/in-focus/2026/10/22/wges-2026-dubais-green-economy-summit-puts-waste-water-and-ai-on-the-agenda/",
-      "published_date": "2026-10-22T11:11:39+00:00",
-      "category": "Economy"
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/29/abu-dhabi-court-sentences-eight-men-to-life-in-jail-over-sudanese-arms-trafficking-case/",
+      "published_date": "2026-10-29T14:19:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Accident as lorry driver falls asleep at wheel sparks Dubai Police warning",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/29/accident-as-lorry-driver-falls-asleep-at-wheel-sparks-dubai-police-warning/",
+      "published_date": "2026-10-29T13:29:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sharjah announces women-only clock tower in Kalba and care complex on Khor Fakkan Road",
@@ -302,13 +337,6 @@
       "source": "Sky News Arabia",
       "url": "https://www.skynewsarabia.com/middle-east/1900014-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A8%D8%B4%D8%AF%D8%A9-%D9%87%D8%AC%D9%88%D9%85-%D8%AC%D9%85%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%84%D9%83-%D9%81%D9%87%D8%AF",
       "published_date": "2026-10-22T17:30:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sheikh Mohammed and Sheikh Hamdan pay tribute after death of 'dedicated' Dubai Police leader",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/22/sheikh-mohammed-and-sheikh-hamdan-pay-tribute-after-death-of-dedicated-dubai-police-leader/",
-      "published_date": "2026-10-22T11:07:31+00:00",
       "category": "Local Events"
     }
   ]
