@@ -1,7 +1,7 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-10-30T02:28:06.623013+00:00",
-  "story_count": 44,
+  "last_updated": "2026-10-30T16:58:13.400533+00:00",
+  "story_count": 41,
   "stories": [
     {
       "title": "The UAE-US partnership and the rise of ‘algo-diplomacy’",
@@ -22,20 +22,6 @@
       "source": "Sky News Arabia",
       "url": "https://www.skynewsarabia.com/middle-east/1900796-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%88%D9%88%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9",
       "published_date": "2026-10-26T20:44:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Abdullah bin Zayed makes a call with the Jordanian Deputy Prime Minister",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/middle-east/1900268-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%8A%D8%AC%D8%B1%D9%8A-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7-%D9%86%D8%A7%D8%A6%D8%A8-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A",
-      "published_date": "2026-10-23T16:35:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia and Ukraine exchange 540 captives after latest UAE mediation",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/23/russia-and-ukraine-exchange-540-captives-after-latest-uae-mediation/",
-      "published_date": "2026-10-23T13:30:21+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,11 +102,11 @@
       "category": "Energy"
     },
     {
-      "title": "UAE petrol prices expected to rise again in November",
+      "title": "UAE fines foreign bank branch Dh200 million for breaching money laundering laws",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/business/energy/2026/10/23/why-uae-petrol-prices-are-expected-to-rise-again-in-november/",
-      "published_date": "2026-10-23T12:14:37+00:00",
-      "category": "Energy"
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/30/uae-fines-foreign-bank-branch-dh200-million-for-breaching-money-laundering-laws/",
+      "published_date": "2026-10-30T11:42:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Khor Fakkan Port expansion to strengthen Sharjah's role in regional trade",
@@ -228,6 +214,20 @@
       "category": "Economy"
     },
     {
+      "title": "Dubai Police arrest six over Dh2.6 million cryptocurrency fraud",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/30/dubai-police-arrest-six-over-dh26-million-cryptocurrency-fraud/",
+      "published_date": "2026-10-30T11:26:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sheikh Mohammed bin Rashid invites Saudi Crown Prince Mohammed bin Salman to the UAE",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/30/sheikh-mohammed-bin-rashid-invites-saudi-crown-prince-mohammed-bin-salman-to-the-uae/",
+      "published_date": "2026-10-30T08:49:39+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "UAE weather: Rain and hail forecast in some areas until Monday",
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/10/29/uae-weather-rain-and-hail-forecast-in-some-areas-until-monday/",
@@ -288,27 +288,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/10/23/uae-foreign-minister-condemns-jordan-church-attack-in-call-with-safadi/",
       "published_date": "2026-10-23T17:25:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The UAE condemns the shooting incident inside a church in Jordan",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/middle-east/1900262-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84-%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86",
-      "published_date": "2026-10-23T15:53:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six arrested after Dubai resident loses years of savings in online shopping scam",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/23/six-arrested-after-dubai-resident-loses-years-of-savings-in-online-shopping-scam/",
-      "published_date": "2026-10-23T12:35:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abu Dhabi private schools to hire 2,000 Emirati teachers in next five years under education push",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/23/abu-dhabi-private-schools-to-hire-2000-emirati-teachers-in-next-five-years-under-education-push/",
-      "published_date": "2026-10-23T09:13:14+00:00",
       "category": "Local Events"
     }
   ]
