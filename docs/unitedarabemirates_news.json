@@ -1,8 +1,15 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-10-31T02:00:37.933152+00:00",
-  "story_count": 41,
+  "last_updated": "2026-10-31T15:55:38.126368+00:00",
+  "story_count": 38,
   "stories": [
+    {
+      "title": "UAE calls on world leaders to commit to water security at landmark Abu Dhabi summit",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/31/uae-calls-on-world-leaders-to-commit-to-water-security-at-landmark-abu-dhabi-summit/",
+      "published_date": "2026-10-31T08:46:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The UAE-US partnership and the rise of ‘algo-diplomacy’",
       "source": "The National",
@@ -25,11 +32,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sheikh Khaled meets Emirati military students on official visit to Greece",
+      "title": "UAE petrol prices defy expectations with surprise drop in November",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/24/sheikh-khaled-meets-emirati-military-students-on-official-visit-to-greece/",
-      "published_date": "2026-10-24T12:48:47+00:00",
-      "category": "Military"
+      "url": "https://www.thenationalnews.com/business/energy/2026/10/31/uae-petrol-prices-defy-expectations-with-surprise-drop-in-november/",
+      "published_date": "2026-10-31T06:40:05+00:00",
+      "category": "Energy"
     },
     {
       "title": "UAE.. Controlling the “Jem 2” oil tanker leak",
@@ -92,20 +99,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/business/energy/2026/10/25/adnoc-offers-163bn-in-manufacturing-opportunities-to-uae-suppliers/",
       "published_date": "2026-10-25T11:55:28+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UAE oil spill: Ras Al Khaimah closes all beaches 'until further notice'",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/24/uae-oil-spill-ras-al-khaimah-closes-all-beaches-until-further-notice/",
-      "published_date": "2026-10-24T11:13:43+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Swift response key to limiting environmental impact of UAE oil spill, experts say",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/24/swift-response-key-to-limiting-environmental-impact-of-uae-oil-spill-experts-say/",
-      "published_date": "2026-10-24T05:30:57+00:00",
       "category": "Energy"
     },
     {
@@ -221,11 +214,11 @@
       "category": "Economy"
     },
     {
-      "title": "UAE Property: 'Should I sell my off-plan Dubai apartment amid uncertainty or wait?'",
+      "title": "Sheikha Latifa meets Emirati scholarship students in South Korea",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/business/property/2026/10/24/uae-property-should-i-sell-my-off-plan-dubai-apartment-amid-uncertainty-or-wait/",
-      "published_date": "2026-10-24T04:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/31/sheikha-latifa-meets-emirati-scholarship-students-in-south-korea/",
+      "published_date": "2026-10-31T12:18:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dubai Police arrest six over Dh2.6 million cryptocurrency fraud",
@@ -274,20 +267,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/10/27/hail-hits-northern-emirates-as-uae-weather-alert-issued-over-45kph-winds/",
       "published_date": "2026-10-27T11:51:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mohamed bin Zayed offers condolences to the King of Jordan for the victims of the church targeting",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/middle-east/1900383-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%8A%D8%B9%D8%B2%D9%8A-%D9%85%D9%84%D9%83-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%A9",
-      "published_date": "2026-10-24T15:07:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parts of UAE set for rain, fog and 50kph winds but wait for drop in temperatures goes on",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/24/parts-of-uae-set-for-rain-fog-and-50kph-winds-but-wait-for-drop-in-temperatures-goes-on/",
-      "published_date": "2026-10-24T08:04:47+00:00",
       "category": "Local Events"
     }
   ]
