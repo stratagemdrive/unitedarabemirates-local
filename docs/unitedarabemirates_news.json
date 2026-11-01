@@ -1,7 +1,7 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-11-01T01:54:34.674361+00:00",
-  "story_count": 39,
+  "last_updated": "2026-11-01T16:58:10.153643+00:00",
+  "story_count": 43,
   "stories": [
     {
       "title": "UAE calls on world leaders to commit to water security at landmark Abu Dhabi summit",
@@ -30,6 +30,27 @@
       "url": "https://www.skynewsarabia.com/middle-east/1900796-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%88%D9%88%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9",
       "published_date": "2026-10-26T20:44:32+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Gargash: Trust with Iran has been shaken",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/middle-east/1901908-%D9%82%D8%B1%D9%82%D8%A7%D8%B4-%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B2%D8%B9%D8%B2%D8%B9%D8%AA",
+      "published_date": "2026-11-01T10:49:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Global energy giants gather in Abu Dhabi as Adipec prepares for record exhibition",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/2026/11/01/global-energy-giants-gather-in-abu-dhabi-as-adipec-prepares-for-record-exhibition/",
+      "published_date": "2026-11-01T14:54:58+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Dubai's Dewa steps up global expansion push with Shanghai Electric deal",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/11/01/dubais-dewa-steps-up-global-expansion-push-with-shanghai-electric-deal/",
+      "published_date": "2026-11-01T10:02:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "UAE petrol prices defy expectations with surprise drop in November",
@@ -88,18 +109,11 @@
       "category": "Energy"
     },
     {
-      "title": "Adnoc prepares new wave of oil and gas tenders for 2027",
+      "title": "Dubai launches tourism loyalty programme to reward repeat visitors",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/business/energy/2026/10/25/adnoc-prepares-new-wave-of-oil-and-gas-tenders-for-2027/",
-      "published_date": "2026-10-25T13:13:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Adnoc offers $16.3bn in manufacturing opportunities to UAE suppliers",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/business/energy/2026/10/25/adnoc-offers-163bn-in-manufacturing-opportunities-to-uae-suppliers/",
-      "published_date": "2026-10-25T11:55:28+00:00",
-      "category": "Energy"
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/01/dubai-launches-tourism-loyalty-programme-to-reward-repeat-visitors/",
+      "published_date": "2026-11-01T10:17:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "“Rox” delivers the first batch of cars bearing “Made in the Emirates”",
@@ -207,11 +221,25 @@
       "category": "Economy"
     },
     {
-      "title": "UAE and Benin agree to trade deal in Abu Dhabi",
+      "title": "Dubai Ride attracts record 41,836 cyclists as Sheikh Zayed Road closes to traffic",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/25/uae-and-benin-agree-trade-deal-in-abu-dhabi/",
-      "published_date": "2026-10-25T15:31:50+00:00",
-      "category": "Economy"
+      "url": "https://www.thenationalnews.com/lifestyle/2026/11/01/dubai-ride-attracts-record-41836-cyclists-as-sheikh-zayed-road-closes-to-traffic/",
+      "published_date": "2026-11-01T15:32:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dubai Police issue nearly 50,000 fines to drivers with expired registration in 2026",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/01/dubai-police-issue-nearly-50000-fines-to-drivers-with-expired-registration-in-2026/",
+      "published_date": "2026-11-01T12:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tadej Pogacar 'happy to be alive' as UAE Team Emirates rider recalls 'scary' Vuelta crash",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/sport/2026/11/01/tadej-pogacar-happy-to-be-alive-as-he-recalls-scary-vuelta-crash/",
+      "published_date": "2026-11-01T04:34:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UAE expresses solidarity with India, conveys condolences over victims of helicopter crash",
