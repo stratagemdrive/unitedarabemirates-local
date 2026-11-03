@@ -1,7 +1,7 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-11-03T03:50:22.164374+00:00",
-  "story_count": 43,
+  "last_updated": "2026-11-03T18:11:24.204228+00:00",
+  "story_count": 42,
   "stories": [
     {
       "title": "How to apply for Dubai tourist visa as application process eased",
@@ -32,11 +32,32 @@
       "category": "Diplomacy"
     },
     {
+      "title": "The Kremlin confirms a new negotiating round in Abu Dhabi regarding Ukraine",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/world/1902386-%D8%A7%D9%84%D9%83%D8%B1%D9%85%D9%84%D9%8A%D9%86-%D9%8A%D8%A4%D9%83%D8%AF-%D8%AC%D9%88%D9%84%D8%A9-%D8%AA%D9%81%D8%A7%D9%88%D8%B6-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
+      "published_date": "2026-11-03T10:24:59+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Gargash: Trust with Iran has been shaken",
       "source": "Sky News Arabia",
       "url": "https://www.skynewsarabia.com/middle-east/1901908-%D9%82%D8%B1%D9%82%D8%A7%D8%B4-%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B2%D8%B9%D8%B2%D8%B9%D8%AA",
       "published_date": "2026-11-01T10:49:08+00:00",
       "category": "Military"
+    },
+    {
+      "title": "President Sheikh Mohamed meets Germany's economy and energy minister in Abu Dhabi",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/03/president-sheikh-mohamed-meets-germanys-economy-and-energy-minister-in-abu-dhabi/",
+      "published_date": "2026-11-03T12:29:19+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Long-term demand for LNG will continue to rise, Adnoc Gas CEO says",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/11/03/long-term-demand-for-lng-will-continue-to-rise-adnoc-gas-ceo-says/",
+      "published_date": "2026-11-03T11:37:16+00:00",
+      "category": "Energy"
     },
     {
       "title": "UAE oil exports surpass prewar levels despite Hormuz disruption, energy minister says",
@@ -102,11 +123,11 @@
       "category": "Energy"
     },
     {
-      "title": "SNOC completes the first phase of the Hadiba gas field development project",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/business/1900957-%D8%B3%D9%86%D9%88%D9%83-%D8%AA%D9%86%D8%AC%D8%B2-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%AD%D9%82%D9%84-%D9%87%D8%AF%D9%8A%D8%A8%D8%A9-%D9%84%D9%84%D8%BA%D8%A7%D8%B2",
-      "published_date": "2026-10-27T11:46:19+00:00",
-      "category": "Energy"
+      "title": "Adipec: Welsh companies look to UAE for energy sector growth",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/03/adipec-welsh-companies-look-to-uae-for-energy-sector-growth/",
+      "published_date": "2026-11-03T12:31:33+00:00",
+      "category": "Economy"
     },
     {
       "title": "Abu Dhabi's Adia, Avolon and I Squared Capital to launch aviation investment platform",
@@ -179,39 +200,18 @@
       "category": "Economy"
     },
     {
-      "title": "Dubai's new urban development policy seeks to increase property value by Dh20bn",
+      "title": "Nomad art fair to return to old Abu Dhabi airport terminal in November",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/27/sheikh-hamdan-dubai-urban-plan-property-value-boost/",
-      "published_date": "2026-10-27T16:29:34+00:00",
-      "category": "Economy"
+      "url": "https://www.thenationalnews.com/arts-culture/2026/09/08/nomad-art-fair-to-return-to-old-abu-dhabi-airport-terminal-in-november/",
+      "published_date": "2026-11-03T14:48:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Sheikh Hamdan approves plan to boost property values of 48 Dubai areas by Dh20 billion",
+      "title": "Ten UAE glamping and caravan stays to book as the weather cools",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/27/dubai-sheikh-hamdan-urban-centres-development-plan/",
-      "published_date": "2026-10-27T16:05:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Apollo's Marc Rowan on his $1bn Mubadala deal, AI valuations and Anthropic's IPO",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/podcasts/inside-brief/2026/10/27/apollos-marc-rowan-on-his-1bn-mubadala-deal-ai-valuations-and-anthropics-2tn-ipo/",
-      "published_date": "2026-10-27T13:54:03+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "“Masdar” raises $600 million through its first blue bond issuance",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/business/1900931-%D9%85%D8%B5%D8%AF%D8%B1-%D8%AA%D8%AC%D9%85%D8%B9-600-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B9%D8%A8%D8%B1-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D9%84%D8%B3%D9%86%D8%AF%D8%A7%D8%AA-%D8%B2%D8%B1%D9%82%D8%A7%D8%A1",
-      "published_date": "2026-10-27T10:02:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Marc Rowan on why Apollo has taken a $1 billion stake in Mubadala Capital",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/business/2026/10/27/marc-rowan-on-why-apollo-has-taken-a-1-billion-stake-in-mubadala-capital/",
-      "published_date": "2026-10-27T07:52:15+00:00",
-      "category": "Economy"
+      "url": "https://www.thenationalnews.com/travel/2026/11/03/ten-uae-glamping-and-caravan-stays-to-book-as-the-weather-cools/",
+      "published_date": "2026-11-03T13:15:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "More than 6,500 lose weight under Abu Dhabi health campaign",
@@ -295,13 +295,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/10/27/sharjah-announces-women-only-clock-tower-in-kalba-and-care-complex-on-khorfakkan-road/",
       "published_date": "2026-10-27T18:28:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hail hits Northern Emirates as Abu Dhabi issues rain alert",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/27/hail-hits-northern-emirates-as-uae-weather-alert-issued-over-45kph-winds/",
-      "published_date": "2026-10-27T11:51:18+00:00",
       "category": "Local Events"
     }
   ]
