@@ -1,7 +1,7 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-11-05T03:09:05.687993+00:00",
-  "story_count": 46,
+  "last_updated": "2026-11-05T18:25:38.836474+00:00",
+  "story_count": 50,
   "stories": [
     {
       "title": "'When I see a summit, I smile': Emirati teen on scaling peaks and setting records",
@@ -25,11 +25,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The UAE-US partnership and the rise of ‘algo-diplomacy’",
+      "title": "The UAE condemns the terrorist act that led to the death of a Jordanian security personnel",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/middle-east/1902948-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D8%A3%D8%AF%D9%89-%D9%84%D9%85%D9%82%D8%AA%D9%84-%D9%81%D8%B1%D8%AF-%D8%A3%D9%85%D9%86-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A",
+      "published_date": "2026-11-05T17:05:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE to hold Union Fortress 11 military parade in Liwa City in December",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/opinion/comment/2026/10/29/us-uae-ai-artificial-intelligence-silicon-valley-diplomacy/",
-      "published_date": "2026-10-29T14:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/05/uae-to-hold-union-fortress-11-military-parade-in-liwa-city-in-december/",
+      "published_date": "2026-11-05T16:58:58+00:00",
+      "category": "Military"
     },
     {
       "title": "The Kremlin confirms a new negotiating round in Abu Dhabi regarding Ukraine",
@@ -44,6 +51,27 @@
       "url": "https://www.skynewsarabia.com/middle-east/1901908-%D9%82%D8%B1%D9%82%D8%A7%D8%B4-%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B2%D8%B9%D8%B2%D8%B9%D8%AA",
       "published_date": "2026-11-01T10:49:08+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Mubadala Energy to double output over next decade with natural gas in focus",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/11/05/mubadala-energy-to-double-output-over-next-decade-with-natural-gas-in-focus/",
+      "published_date": "2026-11-05T13:29:44+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Masdar and Endesa begin construction of $28m battery storage projects in Spain amid clean energy push",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/11/05/masdar-and-endesa-begin-construction-of-28m-battery-storage-projects-in-spain-amid-clean-energy-push/",
+      "published_date": "2026-11-05T11:37:06+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Sheikh Khaled lauds Adnoc's role in global energy security system",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/economy/2026/11/05/sheikh-khaled-lauds-adnocs-role-in-global-energy-security-system/",
+      "published_date": "2026-11-05T11:12:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "India expands crude imports with UAE emerging as a major supplier",
@@ -102,25 +130,39 @@
       "category": "Energy"
     },
     {
-      "title": "Masdar starts construction on 200MW solar energy project in Malaysia",
+      "title": "UAE companies brace for impact of nine-hour limits on driving",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/business/energy/2026/10/29/masdar-starts-construction-on-200mw-solar-energy-project-in-malaysia/",
-      "published_date": "2026-10-29T17:05:59+00:00",
-      "category": "Energy"
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/05/drivers-hours-rule-will-improve-safety-but-cause-upheaval-analysts-say/",
+      "published_date": "2026-11-05T16:49:50+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Nearly 90% of energy leaders boosted AI spending last year, Adnoc-Microsoft study finds",
+      "title": "Abu Dhabi's IHC more than doubles net profit in first nine months of 2026",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/business/energy/2026/10/29/nearly-90-of-energy-leaders-boosted-ai-spending-last-year-adnoc-microsoft-study-finds/",
-      "published_date": "2026-10-29T15:54:49+00:00",
-      "category": "Energy"
+      "url": "https://www.thenationalnews.com/business/markets/2026/11/05/abu-dhabis-ihc-more-than-doubles-net-profit-in-first-nine-months-of-2026/",
+      "published_date": "2026-11-05T15:23:02+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UAE oil spill: Everything we know as beaches close and clean-up drive continues",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/29/uae-oil-spill-everything-we-know-as-beaches-close-and-clean-up-drive-continues/",
-      "published_date": "2026-10-29T10:27:26+00:00",
-      "category": "Energy"
+      "title": "The Bank of England raises interest rates for the first time since 2023",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/business/1902916-%D8%A8%D9%86%D9%83-%D8%A5%D9%86%D8%AC%D9%84%D8%AA%D8%B1%D8%A7-%D9%8A%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%AF%D8%A9-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-2023",
+      "published_date": "2026-11-05T13:39:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ADIPEC opens new horizons for specialized manufacturing for the energy sector",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/business/1902868-%D8%A3%D8%AF%D9%8A%D8%A8%D9%83-%D9%8A%D9%81%D8%AA%D8%AD-%D8%A2%D9%81%D8%A7%D9%82%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%AA%D8%AE%D8%B5%D8%B5-%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9",
+      "published_date": "2026-11-05T09:46:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "4.3 billion dirhams in revenues for “Burjeel Holding” in 9 months",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/business/1902862-4-3-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D8%B1%D9%87%D9%85-%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A8%D8%B1%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D8%B6%D8%A9-9-%D8%A3%D8%B4%D9%87%D8%B1",
+      "published_date": "2026-11-05T09:24:56+00:00",
+      "category": "Economy"
     },
     {
       "title": "Dubai International Financial attracts 600 wealth management companies",
@@ -200,11 +242,18 @@
       "category": "Economy"
     },
     {
-      "title": "Abu Dhabi apartment prices rise 24 per cent in third quarter",
+      "title": "Sheikh Mohammed honours winners of 2026 Mohammed bin Rashid Government Excellence Award",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/business/property/2026/10/29/abu-dhabi-apartment-prices-rise-24-per-cent-in-third-quarter/",
-      "published_date": "2026-10-29T12:25:49+00:00",
-      "category": "Economy"
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/05/sheikh-mohammed-honours-winners-of-2026-mohammed-bin-rashid-government-excellence-award/",
+      "published_date": "2026-11-05T17:51:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Staged suicides and suspicious fires: How Dubai Police solve crimes",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/05/staged-suicides-and-suspicious-fires-how-dubai-police-solve-crimes/",
+      "published_date": "2026-11-05T13:15:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Earthquake recorded off Fujairah coast as UAE monitors seismic activity",
@@ -302,27 +351,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/10/30/sheikh-mohammed-bin-rashid-invites-saudi-crown-prince-mohammed-bin-salman-to-the-uae/",
       "published_date": "2026-10-30T08:49:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UAE weather: Rain and hail forecast in some areas until Monday",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/29/uae-weather-rain-and-hail-forecast-in-some-areas-until-monday/",
-      "published_date": "2026-10-29T16:54:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abu Dhabi court sentences eight men to life in jail over Sudanese arms trafficking case",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/29/abu-dhabi-court-sentences-eight-men-to-life-in-jail-over-sudanese-arms-trafficking-case/",
-      "published_date": "2026-10-29T14:19:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Accident as lorry driver falls asleep at wheel sparks Dubai Police warning",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/29/accident-as-lorry-driver-falls-asleep-at-wheel-sparks-dubai-police-warning/",
-      "published_date": "2026-10-29T13:29:40+00:00",
       "category": "Local Events"
     }
   ]
