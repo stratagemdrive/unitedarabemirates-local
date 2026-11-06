@@ -1,7 +1,7 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-11-06T03:10:23.148594+00:00",
-  "story_count": 54,
+  "last_updated": "2026-11-06T17:46:26.034707+00:00",
+  "story_count": 53,
   "stories": [
     {
       "title": "Abdullah bin Zayed receives a phone call from the Iranian Foreign Minister",
@@ -137,11 +137,18 @@
       "category": "Energy"
     },
     {
-      "title": "UAE.. Controlling the “Jem 2” oil tanker leak",
+      "title": "Emaar Properties’ profits reached $5.4 billion in 9 months, with a growth of 18%",
       "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/middle-east/1901660-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D8%AA%D8%B3%D8%B1%D8%A8-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D8%AC%D9%8A%D9%85-2",
-      "published_date": "2026-10-30T15:19:36+00:00",
-      "category": "Energy"
+      "url": "https://www.skynewsarabia.com/business/1903125-5-4-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%A3%D8%B1%D8%A8%D8%A7%D8%AD-%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-9-%D8%A3%D8%B4%D9%87%D8%B1-%D8%A8%D9%86%D9%85%D9%88-18",
+      "published_date": "2026-11-06T11:47:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Emaar Properties intends to cancel the listing of Emaar Development on the Dubai Stock Exchange",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/business/1903119-%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%A5%D8%AF%D8%B1%D8%A7%D8%AC-%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%84%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%AF%D8%A8%D9%8A",
+      "published_date": "2026-11-06T11:11:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "UAE filmmaker Faisal Hashmi launches horror production company to champion low-budget cinema",
@@ -242,18 +249,18 @@
       "category": "Economy"
     },
     {
-      "title": "“Rox” delivers the first batch of cars bearing “Made in the Emirates”",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/middle-east/1901668-%D8%B1%D9%88%D9%83%D8%B3-%D8%AA%D8%B3%D9%84%D9%85-%D8%AF%D9%81%D8%B9%D8%A9-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AD%D9%85%D9%84-%D8%B5%D9%86%D8%B9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA",
-      "published_date": "2026-10-30T17:37:54+00:00",
-      "category": "Economy"
+      "title": "Dubai Police seize more than 200 vehicles to put brakes on nuisance noise",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/06/dubai-police-seize-more-than-200-vehicles-to-put-brakes-on-nuisance-noise/",
+      "published_date": "2026-11-06T11:45:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UAE fines foreign bank branch Dh200 million for breaching money laundering laws",
+      "title": "Dubai Police shut down 33 illegal nurseries operating in residential buildings",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/30/uae-fines-foreign-bank-branch-dh200-million-for-breaching-money-laundering-laws/",
-      "published_date": "2026-10-30T11:42:32+00:00",
-      "category": "Economy"
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/06/dubai-police-shut-down-33-illegal-nurseries-operating-in-residential-buildings/",
+      "published_date": "2026-11-06T09:48:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "OpenAI deal to cut Abu Dhabi government processing times from days to minutes",
@@ -365,20 +372,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/10/31/sheikha-latifa-meets-emirati-scholarship-students-in-south-korea/",
       "published_date": "2026-10-31T12:18:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dubai Police arrest six over Dh2.6 million cryptocurrency fraud",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/30/dubai-police-arrest-six-over-dh26-million-cryptocurrency-fraud/",
-      "published_date": "2026-10-30T11:26:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sheikh Mohammed bin Rashid invites Saudi Crown Prince Mohammed bin Salman to the UAE",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/30/sheikh-mohammed-bin-rashid-invites-saudi-crown-prince-mohammed-bin-salman-to-the-uae/",
-      "published_date": "2026-10-30T08:49:39+00:00",
       "category": "Local Events"
     }
   ]
