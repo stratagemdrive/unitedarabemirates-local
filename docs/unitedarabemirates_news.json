@@ -1,8 +1,22 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-11-05T18:25:38.836474+00:00",
-  "story_count": 50,
+  "last_updated": "2026-11-06T03:10:23.148594+00:00",
+  "story_count": 54,
   "stories": [
+    {
+      "title": "Abdullah bin Zayed receives a phone call from the Iranian Foreign Minister",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/middle-east/1902963-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7-%D9%87%D8%A7%D8%AA%D9%81%D9%8A%D8%A7-%D9%88%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "published_date": "2026-11-05T20:29:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Abdullah bin Zayed and the Prime Minister of Qatar discuss regional developments",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/middle-east/1902959-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%88%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%82%D8%B7%D8%B1-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9",
+      "published_date": "2026-11-05T19:37:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'When I see a summit, I smile': Emirati teen on scaling peaks and setting records",
       "source": "The National",
@@ -130,6 +144,13 @@
       "category": "Energy"
     },
     {
+      "title": "UAE filmmaker Faisal Hashmi launches horror production company to champion low-budget cinema",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/arts-culture/2026/11/06/uae-filmmaker-faisal-hashmi-launches-horror-production-company-to-champion-low-budget-cinema/",
+      "published_date": "2026-11-06T03:03:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "UAE companies brace for impact of nine-hour limits on driving",
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/11/05/drivers-hours-rule-will-improve-safety-but-cause-upheaval-analysts-say/",
@@ -235,11 +256,18 @@
       "category": "Economy"
     },
     {
-      "title": "Khor Fakkan Port expansion to strengthen Sharjah's role in regional trade",
+      "title": "OpenAI deal to cut Abu Dhabi government processing times from days to minutes",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/30/khor-fakkan-port-expansion-to-strengthen-sharjahs-role-in-regional-trade/",
-      "published_date": "2026-10-30T02:00:01+00:00",
-      "category": "Economy"
+      "url": "https://www.thenationalnews.com/future/technology/2026/11/06/openai-deal-to-cut-abu-dhabi-government-processing-times-from-days-to-minutes/",
+      "published_date": "2026-11-06T03:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ISEA2026 Dubai connects global dialogue with artistic experiences across the city",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/advertorial/2026/11/06/isea2026-dubai-connects-global-dialogue-with-artistic-experiences-across-the-city/",
+      "published_date": "2026-11-06T03:00:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sheikh Mohammed honours winners of 2026 Mohammed bin Rashid Government Excellence Award",
