@@ -1,7 +1,7 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-11-07T02:32:20.665656+00:00",
-  "story_count": 58,
+  "last_updated": "2026-11-07T16:42:19.426113+00:00",
+  "story_count": 57,
   "stories": [
     {
       "title": "Shoulder to shoulder: Former India envoy to UAE tells of trust and transformation of ties in new book",
@@ -46,13 +46,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UAE calls on world leaders to commit to water security at landmark Abu Dhabi summit",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/31/uae-calls-on-world-leaders-to-commit-to-water-security-at-landmark-abu-dhabi-summit/",
-      "published_date": "2026-10-31T08:46:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The UAE condemns the terrorist act that led to the death of a Jordanian security personnel",
       "source": "Sky News Arabia",
       "url": "https://www.skynewsarabia.com/middle-east/1902948-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D8%A3%D8%AF%D9%89-%D9%84%D9%85%D9%82%D8%AA%D9%84-%D9%81%D8%B1%D8%AF-%D8%A3%D9%85%D9%86-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A",
@@ -79,6 +72,13 @@
       "url": "https://www.skynewsarabia.com/middle-east/1901908-%D9%82%D8%B1%D9%82%D8%A7%D8%B4-%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B2%D8%B9%D8%B2%D8%B9%D8%AA",
       "published_date": "2026-11-01T10:49:08+00:00",
       "category": "Military"
+    },
+    {
+      "title": "UAE to become world's biggest generator of solar electricity by 2031, IEA says",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/11/07/uae-to-become-worlds-biggest-generator-of-solar-electricity-by-2031-iea-says/",
+      "published_date": "2026-11-07T08:33:42+00:00",
+      "category": "Energy"
     },
     {
       "title": "Mubadala Energy to double output over next decade with natural gas in focus",
@@ -144,11 +144,18 @@
       "category": "Energy"
     },
     {
-      "title": "UAE petrol prices defy expectations with surprise drop in November",
+      "title": "Abu Dhabi property transactions jump 76% to Dh171bn in first nine months of 2026",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/business/energy/2026/10/31/uae-petrol-prices-defy-expectations-with-surprise-drop-in-november/",
-      "published_date": "2026-10-31T06:40:05+00:00",
-      "category": "Energy"
+      "url": "https://www.thenationalnews.com/business/property/2026/11/07/abu-dhabi-property-transactions-jump-76-to-dh171bn-in-first-nine-months-of-2026/",
+      "published_date": "2026-11-07T10:48:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UAE job has been either a stepping stone or a pension fund in the past, but now Ahmed Raza is the perfect fit",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/sport/cricket/2026/11/07/uae-job-has-been-either-a-stepping-stone-or-a-pension-fund-in-the-past-but-now-ahmed-raza-is-the-perfect-fit/",
+      "published_date": "2026-11-07T03:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "UAE Property: 'When does a Dubai off-plan property delay become a red flag?'",
@@ -393,20 +400,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/sport/2026/11/01/tadej-pogacar-happy-to-be-alive-as-he-recalls-scary-vuelta-crash/",
       "published_date": "2026-11-01T04:34:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UAE expresses solidarity with India, conveys condolences over victims of helicopter crash",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/31/uae-expresses-solidarity-with-india-conveys-condolences-over-victims-of-helicopter-crash/",
-      "published_date": "2026-10-31T16:28:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sheikha Latifa meets Emirati scholarship students in South Korea",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/31/sheikha-latifa-meets-emirati-scholarship-students-in-south-korea/",
-      "published_date": "2026-10-31T12:18:35+00:00",
       "category": "Local Events"
     }
   ]
