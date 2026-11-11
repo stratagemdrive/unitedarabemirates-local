@@ -1,8 +1,43 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-11-11T02:35:47.259833+00:00",
-  "story_count": 62,
+  "last_updated": "2026-11-11T18:16:23.799777+00:00",
+  "story_count": 69,
   "stories": [
+    {
+      "title": "Kushner: Abu Dhabi talks on Ukraine achieved positive results",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/world/1904116-%D9%83%D9%88%D8%B4%D9%86%D8%B1-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%AD%D9%82%D9%82%D8%AA-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A5%D9%8A%D8%AC%D8%A7%D8%A8%D9%8A%D8%A9",
+      "published_date": "2026-11-11T11:44:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From Abu Dhabi.. Moscow announces an agreement with Kyiv to exchange prisoners",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/world/1904108-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7-%D9%83%D9%8A%D9%8A%D9%81-%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%89",
+      "published_date": "2026-11-11T11:23:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UAE sends high-level delegation to Cop31 climate summit in Turkey",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/11/uae-sends-high-level-delegation-to-cop31-climate-summit-in-turkey/",
+      "published_date": "2026-11-11T11:21:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French Minister: We support diplomatic efforts to resolve the Ukrainian crisis",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/world/1904091-%D9%88%D8%B2%D9%8A%D8%B1-%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D8%AA%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9",
+      "published_date": "2026-11-11T10:14:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Abu Dhabi peace talks yield agreement on large-scale prisoner exchange between Russia and Ukraine",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/11/uae-optimistic-russia-ukraine-talks-will-achieve-positive-breakthrough/",
+      "published_date": "2026-11-11T09:13:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump nominates former Kansas governor Jeffrey Colyer as US ambassador to UAE",
       "source": "The National",
@@ -60,6 +95,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Abu Dhabi talks... Ukraine hopes for a settlement before the end of the year",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/world/1904135-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%A3%D9%85%D9%84-%D8%A8%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85",
+      "published_date": "2026-11-11T12:36:39+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Abu Dhabi talks...determining the terms of the settlement to end the Ukraine war",
       "source": "Sky News Arabia",
       "url": "https://www.skynewsarabia.com/world/1903852-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D9%84%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
@@ -86,6 +128,13 @@
       "url": "https://www.thenationalnews.com/news/uae/2026/11/05/uae-to-hold-union-fortress-11-military-parade-in-liwa-city-in-december/",
       "published_date": "2026-11-05T16:58:58+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Ras Al Khaimah beaches reopen after supertanker oil spill",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/11/ras-al-khaimah-beaches-reopen-after-supertanker-oil-spill/",
+      "published_date": "2026-11-11T14:30:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "Middle East latest: Ship attacked in UAE waters, says operator Adnoc",
@@ -156,6 +205,27 @@
       "url": "https://www.thenationalnews.com/business/energy/2026/11/05/india-expands-crude-imports-with-uae-emerging-as-a-major-supplier/",
       "published_date": "2026-11-05T03:00:00+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Dubai's Parkin posts record profit as fines outpace tickets for first time",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/2026/11/11/dubais-parkin-posts-record-profit-as-fines-outpace-tickets-for-first-time/",
+      "published_date": "2026-11-11T17:15:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UAE's biggest bank FAB to raise $4.08bn to boost next phase of growth strategy",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/banking/2026/11/11/fab-to-raise-408bn-to-boost-next-phase-of-growth-strategy/",
+      "published_date": "2026-11-11T14:33:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UAE corporate tax revenue jumps by a third to Dh46.5bn in 2025",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/economy/2026/11/11/uae-corporate-tax-revenue-jumps-by-a-third-to-dh465bn-in-2025/",
+      "published_date": "2026-11-11T11:35:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Abu Dhabi's cost of living steady despite fallout from geopolitical conflict",
@@ -277,25 +347,18 @@
       "category": "Economy"
     },
     {
-      "title": "Dubai International Financial attracts 600 wealth management companies",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/business/1902683-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%8A%D8%B3%D8%AA%D9%82%D8%B7%D8%A8-600-%D8%B4%D8%B1%D9%83%D8%A9-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%B1%D9%88%D8%A7%D8%AA",
-      "published_date": "2026-11-04T13:55:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Dubai tourism loyalty programme: Fees and eligibility revealed for visitors",
+      "title": "Dubai-it awards put spotlight on city's doers and strivers amid year of disruption",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/04/dubai-tourism-loyalty-programme-fees-and-eligibility-revealed-for-visitors/",
-      "published_date": "2026-11-04T13:07:29+00:00",
-      "category": "Economy"
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/11/more-brands-will-be-built-here-dubai-businesses-report-growth-despite-turbulent-start-of-year/",
+      "published_date": "2026-11-11T14:17:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Borouge International raises the targets of its global production capacity growth plans",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/business/1902656-%D8%A8%D8%B1%D9%88%D8%AC-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%AA%D8%B1%D9%81%D8%B9-%D9%85%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A7%D8%AA-%D8%AE%D8%B7%D8%B7-%D9%86%D9%85%D9%88-%D8%B7%D8%A7%D9%82%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9",
-      "published_date": "2026-11-04T12:02:39+00:00",
-      "category": "Economy"
+      "title": "New Dubai student card combines public transport discounts and international benefits",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/11/new-dubai-student-card-combines-public-transport-discounts-and-international-benefits/",
+      "published_date": "2026-11-11T13:39:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dubai Peninsula and the next chapter of the city’s coastline",
@@ -421,20 +484,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/advertorial/2026/11/06/isea2026-dubai-connects-global-dialogue-with-artistic-experiences-across-the-city/",
       "published_date": "2026-11-06T03:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sheikh Mohammed honours winners of 2026 Mohammed bin Rashid Government Excellence Award",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/05/sheikh-mohammed-honours-winners-of-2026-mohammed-bin-rashid-government-excellence-award/",
-      "published_date": "2026-11-05T17:51:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Staged suicides and suspicious fires: How Dubai Police solve crimes",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/05/staged-suicides-and-suspicious-fires-how-dubai-police-solve-crimes/",
-      "published_date": "2026-11-05T13:15:23+00:00",
       "category": "Local Events"
     }
   ]
