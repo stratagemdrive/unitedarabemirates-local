@@ -1,7 +1,7 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-11-12T03:36:01.794305+00:00",
-  "story_count": 68,
+  "last_updated": "2026-11-12T18:39:53.758696+00:00",
+  "story_count": 65,
   "stories": [
     {
       "title": "Kushner: Abu Dhabi talks on Ukraine achieved positive results",
@@ -88,6 +88,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "UAE has come out of the war 'exceptionally well', investment minister says",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/economy/2026/11/12/uae-has-come-out-of-the-war-exceptionally-well-investment-minister-says/",
+      "published_date": "2026-11-12T12:29:18+00:00",
+      "category": "Military"
+    },
+    {
       "title": "The UAE proved it can withstand war. What it does next is just as important",
       "source": "The National",
       "url": "https://www.thenationalnews.com/opinion/editorial/2026/11/12/uae-war-iran-middle-east/",
@@ -116,18 +123,25 @@
       "category": "Military"
     },
     {
-      "title": "The UAE condemns the terrorist act that led to the death of a Jordanian security personnel",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/middle-east/1902948-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D8%A3%D8%AF%D9%89-%D9%84%D9%85%D9%82%D8%AA%D9%84-%D9%81%D8%B1%D8%AF-%D8%A3%D9%85%D9%86-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A",
-      "published_date": "2026-11-05T17:05:58+00:00",
-      "category": "Military"
+      "title": "Dewa posts record nine-month profit on increased demand for its services",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/markets/2026/11/12/dewa-posts-record-nine-month-profit-on-increased-demand-for-its-services/",
+      "published_date": "2026-11-12T17:58:33+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UAE to hold Union Fortress 11 military parade in Liwa City in December",
+      "title": "Arada and Alya target $1.63bn property pipeline across UAE and Saudi Arabia",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/05/uae-to-hold-union-fortress-11-military-parade-in-liwa-city-in-december/",
-      "published_date": "2026-11-05T16:58:58+00:00",
-      "category": "Military"
+      "url": "https://www.thenationalnews.com/business/property/2026/11/12/arada-and-alya-target-163bn-property-pipeline-across-uae-and-saudi-arabia/",
+      "published_date": "2026-11-12T10:45:29+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Sharjah reopens beaches to public after oil spill clean-up",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/12/sharjah-reopens-beaches-to-public-after-oil-spill-clean-up/",
+      "published_date": "2026-11-12T10:34:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ras Al Khaimah beaches reopen after supertanker oil spill",
@@ -179,25 +193,18 @@
       "category": "Energy"
     },
     {
-      "title": "Mubadala Energy to double output over next decade with natural gas in focus",
+      "title": "Fertiglobe boosts UAE exports to 95% of production but logistics costs hit profit",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/business/energy/2026/11/05/mubadala-energy-to-double-output-over-next-decade-with-natural-gas-in-focus/",
-      "published_date": "2026-11-05T13:29:44+00:00",
-      "category": "Energy"
+      "url": "https://www.thenationalnews.com/business/2026/11/12/fertiglobe-boosts-uae-exports-to-95-of-production-but-logistics-costs-hit-profit/",
+      "published_date": "2026-11-12T12:25:40+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Masdar and Endesa begin construction of $28m battery storage projects in Spain amid clean energy push",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/business/energy/2026/11/05/masdar-and-endesa-begin-construction-of-28m-battery-storage-projects-in-spain-amid-clean-energy-push/",
-      "published_date": "2026-11-05T11:37:06+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Sheikh Khaled lauds Adnoc's role in global energy security system",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/business/economy/2026/11/05/sheikh-khaled-lauds-adnocs-role-in-global-energy-security-system/",
-      "published_date": "2026-11-05T11:12:38+00:00",
-      "category": "Energy"
+      "title": "Strong growth in Vertiglobe revenues of 44% in 9 months",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/business/1904355-%D9%86%D9%85%D9%88-%D9%82%D9%88%D9%8A-%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D9%81%D9%8A%D8%B1%D8%AA%D9%8A%D8%BA%D9%84%D9%88%D8%A8-%D8%A8-44-9-%D8%A3%D8%B4%D9%87%D8%B1",
+      "published_date": "2026-11-12T10:54:51+00:00",
+      "category": "Economy"
     },
     {
       "title": "First Abu Dhabi agrees to increase its capital by 15 billion dirhams",
@@ -312,32 +319,18 @@
       "category": "Economy"
     },
     {
-      "title": "UAE companies brace for impact of nine-hour limits on driving",
+      "title": "Fourteen killed and 30 injured in Fujairah multi-vehicle road accident",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/05/drivers-hours-rule-will-improve-safety-but-cause-upheaval-analysts-say/",
-      "published_date": "2026-11-05T16:49:50+00:00",
-      "category": "Economy"
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/12/fujairah-road-accident-truck-crash-latest-toll-updates/",
+      "published_date": "2026-11-12T14:52:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Abu Dhabi's IHC more than doubles net profit in first nine months of 2026",
+      "title": "Red Bull Half Court in Abu Dhabi: UAE streetball stars aiming to take on the world in Manila",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/business/markets/2026/11/05/abu-dhabis-ihc-more-than-doubles-net-profit-in-first-nine-months-of-2026/",
-      "published_date": "2026-11-05T15:23:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Bank of England raises interest rates for the first time since 2023",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/business/1902916-%D8%A8%D9%86%D9%83-%D8%A5%D9%86%D8%AC%D9%84%D8%AA%D8%B1%D8%A7-%D9%8A%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%AF%D8%A9-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-2023",
-      "published_date": "2026-11-05T13:39:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "ADIPEC opens new horizons for specialized manufacturing for the energy sector",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/business/1902868-%D8%A3%D8%AF%D9%8A%D8%A8%D9%83-%D9%8A%D9%81%D8%AA%D8%AD-%D8%A2%D9%81%D8%A7%D9%82%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%AA%D8%AE%D8%B5%D8%B5-%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9",
-      "published_date": "2026-11-05T09:46:38+00:00",
-      "category": "Economy"
+      "url": "https://www.thenationalnews.com/sport/2026/11/12/red-bull-half-court-in-abu-dhabi-uae-streetball-stars-aiming-to-take-on-the-world-in-manila/",
+      "published_date": "2026-11-12T12:40:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How Abu Dhabi's old airport terminal became a destination for world-leading designers",
@@ -463,20 +456,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/2026/11/06/pictures-of-the-week-from-the-us-midterm-elections-to-dubai-design-week/",
       "published_date": "2026-11-06T18:06:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dubai Police seize more than 200 vehicles to put brakes on nuisance noise",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/06/dubai-police-seize-more-than-200-vehicles-to-put-brakes-on-nuisance-noise/",
-      "published_date": "2026-11-06T11:45:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dubai Police shut down 33 illegal nurseries operating in residential buildings",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/06/dubai-police-shut-down-33-illegal-nurseries-operating-in-residential-buildings/",
-      "published_date": "2026-11-06T09:48:23+00:00",
       "category": "Local Events"
     }
   ]
