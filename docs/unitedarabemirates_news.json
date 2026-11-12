@@ -1,7 +1,7 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-11-11T18:16:23.799777+00:00",
-  "story_count": 69,
+  "last_updated": "2026-11-12T03:36:01.794305+00:00",
+  "story_count": 68,
   "stories": [
     {
       "title": "Kushner: Abu Dhabi talks on Ukraine achieved positive results",
@@ -88,11 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'When I see a summit, I smile': Emirati teen on scaling peaks and setting records",
+      "title": "The UAE proved it can withstand war. What it does next is just as important",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/05/when-i-see-a-summit-i-smile-i-did-it-emirati-teen-on-scaling-peaks-and-setting-records/",
-      "published_date": "2026-11-05T02:00:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thenationalnews.com/opinion/editorial/2026/11/12/uae-war-iran-middle-east/",
+      "published_date": "2026-11-12T03:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Abu Dhabi talks... Ukraine hopes for a settlement before the end of the year",
@@ -200,11 +200,11 @@
       "category": "Energy"
     },
     {
-      "title": "India expands crude imports with UAE emerging as a major supplier",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/business/energy/2026/11/05/india-expands-crude-imports-with-uae-emerging-as-a-major-supplier/",
-      "published_date": "2026-11-05T03:00:00+00:00",
-      "category": "Energy"
+      "title": "First Abu Dhabi agrees to increase its capital by 15 billion dirhams",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/business/1904212-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%8A%D9%88%D8%A7%D9%81%D9%82-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B1%D8%A3%D8%B3%D9%85%D8%A7%D9%84%D9%87-%D8%A8-15-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D8%B1%D9%87%D9%85",
+      "published_date": "2026-11-12T03:14:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "Dubai's Parkin posts record profit as fines outpace tickets for first time",
@@ -340,11 +340,18 @@
       "category": "Economy"
     },
     {
-      "title": "4.3 billion dirhams in revenues for “Burjeel Holding” in 9 months",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/business/1902862-4-3-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D8%B1%D9%87%D9%85-%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A8%D8%B1%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D8%B6%D8%A9-9-%D8%A3%D8%B4%D9%87%D8%B1",
-      "published_date": "2026-11-05T09:24:56+00:00",
-      "category": "Economy"
+      "title": "How Abu Dhabi's old airport terminal became a destination for world-leading designers",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/magazine/2026/11/12/how-abu-dhabis-old-airport-terminal-became-a-destination-for-world-leading-designers/",
+      "published_date": "2026-11-12T03:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tadej Pogacar on potential UAE Tour return, recovering from horror crash and 'special talent' Isaac del Toro",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/sport/cycling/2026/11/12/tadej-pogacar-on-potential-uae-tour-return-recovering-from-horror-crash-and-special-talent-isaac-del-toro/",
+      "published_date": "2026-11-12T02:45:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dubai-it awards put spotlight on city's doers and strivers amid year of disruption",
@@ -470,20 +477,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/11/06/dubai-police-shut-down-33-illegal-nurseries-operating-in-residential-buildings/",
       "published_date": "2026-11-06T09:48:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OpenAI deal to cut Abu Dhabi government processing times from days to minutes",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/future/technology/2026/11/06/openai-deal-to-cut-abu-dhabi-government-processing-times-from-days-to-minutes/",
-      "published_date": "2026-11-06T03:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ISEA2026 Dubai connects global dialogue with artistic experiences across the city",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/advertorial/2026/11/06/isea2026-dubai-connects-global-dialogue-with-artistic-experiences-across-the-city/",
-      "published_date": "2026-11-06T03:00:00+00:00",
       "category": "Local Events"
     }
   ]
