@@ -1,8 +1,15 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-11-13T03:08:26.851774+00:00",
+  "last_updated": "2026-11-13T18:19:26.494500+00:00",
   "story_count": 63,
   "stories": [
+    {
+      "title": "Mohamed bin Zayed and the Secretary of the Arab League discuss regional developments",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/middle-east/1904665-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%88%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9",
+      "published_date": "2026-11-13T16:11:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kushner: Abu Dhabi talks on Ukraine achieved positive results",
       "source": "Sky News Arabia",
@@ -67,13 +74,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Abdullah bin Zayed and Badr Abdel Ati discuss regional developments",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/middle-east/1903189-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%88%D8%A8%D8%AF%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D8%B7%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9",
-      "published_date": "2026-11-06T17:52:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "UAE has come out of the war 'exceptionally well', investment minister says",
       "source": "The National",
       "url": "https://www.thenationalnews.com/business/economy/2026/11/12/uae-has-come-out-of-the-war-exceptionally-well-investment-minister-says/",
@@ -107,6 +107,20 @@
       "url": "https://www.skynewsarabia.com/world/1903671-%D9%84%D9%82%D8%A7%D8%A1-%D9%85%D8%AD%D8%AA%D9%85%D9%84-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%88%D9%85%D8%A8%D8%B9%D9%88%D8%AB%D9%8A%D9%86-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D9%8A%D9%86-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
       "published_date": "2026-11-09T19:19:34+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Masdar completes $950m solar and battery storage project in US",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/11/13/masdar-completes-950m-solar-and-battery-storage-project-in-us/",
+      "published_date": "2026-11-13T12:14:51+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Masdar completes Lockhart solar and storage project",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/business/1904571-%D9%85%D8%B5%D8%AF%D8%B1-%D8%AA%D8%B3%D8%AA%D9%83%D9%85%D9%84-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D9%88%D9%83%D9%87%D8%A7%D8%B1%D8%AA-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B2%D9%8A%D9%86",
+      "published_date": "2026-11-13T09:56:58+00:00",
+      "category": "Energy"
     },
     {
       "title": "Dewa posts record nine-month profit on increased demand for its services",
@@ -177,6 +191,13 @@
       "url": "https://www.thenationalnews.com/business/energy/2026/11/07/uae-to-become-worlds-biggest-generator-of-solar-electricity-by-2031-iea-says/",
       "published_date": "2026-11-07T08:33:42+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "My Dubai Salary: 'I said goodbye to two husbands to focus on my business'",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/money/2026/11/13/my-dubai-salary-i-said-goodbye-to-two-husbands-to-focus-on-my-business/",
+      "published_date": "2026-11-13T17:53:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Dubai's super-prime property sales cling on to global top spot",
@@ -284,25 +305,39 @@
       "category": "Economy"
     },
     {
-      "title": "UAE Property: 'When does a Dubai off-plan property delay become a red flag?'",
+      "title": "Dvalishvili cleared to wrestle at RAF Abu Dhabi following arrest with Lazishvili set to make pro debut",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/business/money/2026/11/06/dubai-off-plan-property-delay-buy-apartment-uae-real-estate/",
-      "published_date": "2026-11-06T18:02:00+00:00",
-      "category": "Economy"
+      "url": "https://www.thenationalnews.com/sport/combat-sports/2026/11/13/dvalishvili-cleared-to-wrestle-at-raf-abu-dhabi-following-arrest-with-lazishvili-set-to-make-pro-debut/",
+      "published_date": "2026-11-13T17:27:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Emaar Properties’ profits reached $5.4 billion in 9 months, with a growth of 18%",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/business/1903125-5-4-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%A3%D8%B1%D8%A8%D8%A7%D8%AD-%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-9-%D8%A3%D8%B4%D9%87%D8%B1-%D8%A8%D9%86%D9%85%D9%88-18",
-      "published_date": "2026-11-06T11:47:44+00:00",
-      "category": "Economy"
+      "title": "Fujairah crash: UAE prosecutors investigating two accidents that left 14 dead",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/13/fujairah-crash-uae-prosecutors-probe-two-accidents-that-left-14-dead/",
+      "published_date": "2026-11-13T15:29:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Emaar Properties intends to cancel the listing of Emaar Development on the Dubai Stock Exchange",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/business/1903119-%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%A5%D8%AF%D8%B1%D8%A7%D8%AC-%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%84%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%AF%D8%A8%D9%8A",
-      "published_date": "2026-11-06T11:11:09+00:00",
-      "category": "Economy"
+      "title": "Fire brought under control at Al Bahyah in Abu Dhabi",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/13/fire-brought-under-control-at-al-bahyan-in-abu-dhabi/",
+      "published_date": "2026-11-13T13:01:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dubai to get more smart cameras after 27,000 traffic violations detected in October",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/13/dubai-to-get-more-smart-cameras-after-27000-traffic-violations-detected-in-october/",
+      "published_date": "2026-11-13T12:40:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight sentenced to prison by Abu Dhabi court over Nurmagomedov and Dvalishvili hotel brawl",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/13/raf-abu-dhabi-yas-hotel-brawl-nurmagomedov-dvalishvili/",
+      "published_date": "2026-11-13T12:15:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UAE Interior: Efforts to deal with the Fujairah incident continue",
@@ -407,41 +442,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/11/08/dubai-municipality-unveils-fully-electric-waste-collection-lorry/",
       "published_date": "2026-11-08T14:13:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dubai opens 1.65km Al Khaleej Street tunnel to ease traffic in Deira",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/08/dubai-opens-165km-al-khaleej-street-tunnel-to-ease-traffic-in-deira/",
-      "published_date": "2026-11-08T09:39:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombian police officer praises Dubai's approach to fighting crime with help from residents",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/08/colombian-police-officer-praises-dubais-approach-to-fighting-crime-with-help-from-residents/",
-      "published_date": "2026-11-08T09:17:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abu Dhabi court finds NMC Healthcare founder Dr BR Shetty liable in case involving $5.39bn",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/08/abu-dhabi-court-finds-br-shetty-liable-in-nmc-case-involving-539bn/",
-      "published_date": "2026-11-08T08:01:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DHL to boost network in eastern UAE amid regional uncertainty",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/business/economy/2026/11/08/dhl-to-boost-network-in-eastern-uae-amid-regional-uncertainty/",
-      "published_date": "2026-11-08T06:46:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The UAE condemns the shooting incident in the Polish city of Krakow",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/world/1903298-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%83%D8%B1%D8%A7%D9%83%D9%88%D9%81-%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%86%D8%AF%D9%8A%D8%A9",
-      "published_date": "2026-11-07T18:53:36+00:00",
       "category": "Local Events"
     }
   ]
