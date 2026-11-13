@@ -1,7 +1,7 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-11-12T18:39:53.758696+00:00",
-  "story_count": 65,
+  "last_updated": "2026-11-13T03:08:26.851774+00:00",
+  "story_count": 63,
   "stories": [
     {
       "title": "Kushner: Abu Dhabi talks on Ukraine achieved positive results",
@@ -71,20 +71,6 @@
       "source": "Sky News Arabia",
       "url": "https://www.skynewsarabia.com/middle-east/1903189-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%88%D8%A8%D8%AF%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D8%B7%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9",
       "published_date": "2026-11-06T17:52:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Abdullah bin Zayed receives a phone call from the Iranian Foreign Minister",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/middle-east/1902963-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7-%D9%87%D8%A7%D8%AA%D9%81%D9%8A%D8%A7-%D9%88%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-      "published_date": "2026-11-05T20:29:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Abdullah bin Zayed and the Prime Minister of Qatar discuss regional developments",
-      "source": "Sky News Arabia",
-      "url": "https://www.skynewsarabia.com/middle-east/1902959-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%88%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%82%D8%B7%D8%B1-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9",
-      "published_date": "2026-11-05T19:37:45+00:00",
       "category": "Diplomacy"
     },
     {
@@ -191,6 +177,13 @@
       "url": "https://www.thenationalnews.com/business/energy/2026/11/07/uae-to-become-worlds-biggest-generator-of-solar-electricity-by-2031-iea-says/",
       "published_date": "2026-11-07T08:33:42+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Dubai's super-prime property sales cling on to global top spot",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/13/dubais-super-prime-property-sales-cling-on-to-global-top-spot/",
+      "published_date": "2026-11-13T00:01:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Fertiglobe boosts UAE exports to 95% of production but logistics costs hit profit",
@@ -312,11 +305,18 @@
       "category": "Economy"
     },
     {
-      "title": "UAE filmmaker Faisal Hashmi launches horror production company to champion low-budget cinema",
+      "title": "UAE Interior: Efforts to deal with the Fujairah incident continue",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/middle-east/1904439-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D8%AD%D8%A7%D8%AF%D8%AB-%D8%A7%D9%84%D9%81%D8%AC%D9%8A%D8%B1%D8%A9",
+      "published_date": "2026-11-12T19:53:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Merab Dvalishvili: RAF 'working with UAE' on Georgian's release after arrest following Abu Dhabi hotel brawl",
       "source": "The National",
-      "url": "https://www.thenationalnews.com/arts-culture/2026/11/06/uae-filmmaker-faisal-hashmi-launches-horror-production-company-to-champion-low-budget-cinema/",
-      "published_date": "2026-11-06T03:03:00+00:00",
-      "category": "Economy"
+      "url": "https://www.thenationalnews.com/sport/combat-sports/2026/11/13/merab-dvalishvili-raf-working-with-uae-on-georgians-release-after-arrest-following-abu-dhabi-hotel-brawl/",
+      "published_date": "2026-11-12T19:13:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Fourteen killed and 30 injured in Fujairah multi-vehicle road accident",
@@ -442,20 +442,6 @@
       "source": "Sky News Arabia",
       "url": "https://www.skynewsarabia.com/world/1903298-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%83%D8%B1%D8%A7%D9%83%D9%88%D9%81-%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%86%D8%AF%D9%8A%D8%A9",
       "published_date": "2026-11-07T18:53:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UAE's largest university graduates more than 6,700 as HCT plans expansion",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/07/uaes-largest-university-graduates-more-than-6700-as-hct-plans-expansion/",
-      "published_date": "2026-11-07T02:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pictures of the week: From the US midterm elections to Dubai Design Week",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/2026/11/06/pictures-of-the-week-from-the-us-midterm-elections-to-dubai-design-week/",
-      "published_date": "2026-11-06T18:06:15+00:00",
       "category": "Local Events"
     }
   ]
