@@ -1,8 +1,15 @@
 {
   "country": "United Arab Emirates",
-  "last_updated": "2026-11-13T18:19:26.494500+00:00",
+  "last_updated": "2026-11-14T02:54:22.987799+00:00",
   "story_count": 63,
   "stories": [
+    {
+      "title": "Egypt confirms its position in support of Syria's unity and territorial integrity",
+      "source": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com/middle-east/1904685-%D9%85%D8%B5%D8%B1-%D8%AA%D8%A4%D9%83%D8%AF-%D9%85%D9%88%D9%82%D9%81%D9%87%D8%A7-%D8%A7%D9%84%D8%AF%D8%A7%D8%B9%D9%85-%D9%84%D9%88%D8%AD%D8%AF%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D8%A7",
+      "published_date": "2026-11-13T18:44:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mohamed bin Zayed and the Secretary of the Arab League discuss regional developments",
       "source": "Sky News Arabia",
@@ -64,13 +71,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/11/08/president-sheikh-mohamed-visits-saeed-bin-lahej-al-mansoori-at-his-abu-dhabi-home/",
       "published_date": "2026-11-08T06:04:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Shoulder to shoulder: Former India envoy to UAE tells of trust and transformation of ties in new book",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/07/shoulder-to-shoulder-former-india-envoy-to-uae-tells-of-trust-and-transformation-of-ties-in-new-book/",
-      "published_date": "2026-11-07T02:00:01+00:00",
       "category": "Diplomacy"
     },
     {
@@ -305,6 +305,13 @@
       "category": "Economy"
     },
     {
+      "title": "Dvalishvili cleared to wrestle at RAF Abu Dhabi following arrest over Nurmagomedov hotel brawl",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/sport/combat-sports/2026/11/13/dvalishvili-cleared-to-wrestle-at-raf-abu-dhabi-following-arrest-over-nurmagomedov-hotel-brawl/",
+      "published_date": "2026-11-13T17:27:57+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Dvalishvili cleared to wrestle at RAF Abu Dhabi following arrest with Lazishvili set to make pro debut",
       "source": "The National",
       "url": "https://www.thenationalnews.com/sport/combat-sports/2026/11/13/dvalishvili-cleared-to-wrestle-at-raf-abu-dhabi-following-arrest-with-lazishvili-set-to-make-pro-debut/",
@@ -435,13 +442,6 @@
       "source": "The National",
       "url": "https://www.thenationalnews.com/news/uae/2026/11/09/university-college-londons-new-dubai-school-will-focus-on-business-of-health-care/",
       "published_date": "2026-11-09T11:45:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dubai Municipality unveils fully electric waste collection lorry",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/08/dubai-municipality-unveils-fully-electric-waste-collection-lorry/",
-      "published_date": "2026-11-08T14:13:11+00:00",
       "category": "Local Events"
     }
   ]
